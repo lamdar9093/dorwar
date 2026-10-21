@@ -1,0 +1,30 @@
+# dépendances
+node_modules
+
+# build Next.js / TypeScript
+.next/
+out/
+build/
+dist/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# données locales (fichiers téléversés, bases SQLite)
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# secrets / environnement
+.env
+.env.*
+!.env.example
+
+# logs
+*.log
+npm-debug.log*
+
+# divers
+.DS_Store
+.vercel

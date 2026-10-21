@@ -1,0 +1,40 @@
+# Production derrière Traefik, comme Gobering : Traefik tourne déjà sur le VPS, possède les ports
+# 80 et 443 et les certificats Let's Encrypt. L'application ne publie aucun port : elle s'annonce
+# à Traefik par ses étiquettes, sur le réseau externe « traefik-net ».
+# Sur un VPS sans Traefik, voir docker-compose.caddy.yml.
+#
+# Les variables viennent du fichier .env (voir .env.example et le README).
+#   docker compose up -d --build
+#   docker compose exec app node dist-scripts/seed.mjs     # données de démonstration
+services:
+  app:
+    build: .
+    image: dorwar-app
+    container_name: dorwar-app
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      UPLOADS_DIR: /app/data/uploads
+    volumes:
+      - uploads:/app/data/uploads
+    networks:
+      - traefik-net
+    labels:
+      - "traefik.enable=true"
+      - "traefik.docker.network=traefik-net"
+      - "traefik.http.routers.dorwar.rule=Host(`${SITE_DOMAIN:?Renseignez SITE_DOMAIN dans .env}`)"
+      - "traefik.http.routers.dorwar.entrypoints=websecure"
+      - "traefik.http.routers.dorwar.tls.certresolver=letsencrypt"
+      - "traefik.http.routers.dorwar.middlewares=dorwar-hsts"
+      - "traefik.http.middlewares.dorwar-hsts.headers.stsSeconds=31536000"
+      - "traefik.http.middlewares.dorwar-hsts.headers.stsIncludeSubdomains=true"
+      - "traefik.http.services.dorwar.loadbalancer.server.port=3000"
+
+volumes:
+  # Documents privés (pièces, photos) : à sauvegarder, jamais servis publiquement.
+  uploads:
+
+networks:
+  traefik-net:
+    external: true
+    name: traefik-net

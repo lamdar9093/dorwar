@@ -1,0 +1,45 @@
+# Variante pour un VPS SANS Traefik : l'application et Caddy, qui prend les ports 80 et 443
+# et obtient lui-même les certificats Let's Encrypt.
+# Sur un VPS qui a déjà Traefik (le cas de Gobering), utilisez docker-compose.yml.
+#
+# Pour que toutes les commandes « docker compose » utilisent ce fichier, ajoutez dans .env :
+#   COMPOSE_FILE=docker-compose.caddy.yml
+# Les variables viennent du fichier .env (voir .env.example et le README).
+#   docker compose up -d --build
+#   docker compose exec app node dist-scripts/seed.mjs     # données de démonstration
+services:
+  app:
+    build: .
+    image: dorwar-app
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      UPLOADS_DIR: /app/data/uploads
+    volumes:
+      - uploads:/app/data/uploads
+    expose:
+      - "3000"
+
+  caddy:
+    image: caddy:2.10.2-alpine
+    restart: unless-stopped
+    depends_on:
+      app:
+        condition: service_healthy
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    environment:
+      SITE_DOMAIN: ${SITE_DOMAIN:?Renseignez SITE_DOMAIN dans .env}
+      ACME_EMAIL: ${ACME_EMAIL:?Renseignez ACME_EMAIL dans .env}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+
+volumes:
+  # Documents privés (pièces, photos) : à sauvegarder, jamais servis publiquement.
+  uploads:
+  caddy_data:
+  caddy_config:

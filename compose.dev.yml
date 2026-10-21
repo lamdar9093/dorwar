@@ -1,0 +1,29 @@
+# Base PostgreSQL + PostGIS locale pour développer sans Neon.
+#   npm run db:up   (= docker compose -f compose.dev.yml up -d --wait)
+#   DATABASE_URL=postgres://dorwar:dorwar@localhost:54329/dorwar
+name: dorwar-dev
+services:
+  db:
+    image: postgis/postgis:17-3.5
+    # L'image officielle n'existe qu'en amd64 : émulée sur les Mac Apple Silicon.
+    platform: linux/amd64
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: dorwar
+      POSTGRES_PASSWORD: dorwar
+      POSTGRES_DB: dorwar
+    ports:
+      - "127.0.0.1:54329:5432"
+    volumes:
+      - dorwar_pg:/var/lib/postgresql/data
+    # Test en TCP : pendant l'initialisation, Postgres n'écoute que sur sa socket locale
+    # puis redémarre ; un test sur la socket déclarerait la base prête trop tôt.
+    healthcheck:
+      test: ["CMD", "pg_isready", "-h", "127.0.0.1", "-U", "dorwar", "-d", "dorwar"]
+      interval: 2s
+      timeout: 3s
+      retries: 60
+      start_period: 10s
+
+volumes:
+  dorwar_pg:
