@@ -1,0 +1,3738 @@
+{
+ "source": "Wikidata (CC0), extraction automatique ; région de Dakar corrigée à la main (découpage 2021, quartiers du département de Dakar). Points centraux approchés.",
+ "generatedAt": "2026-10-18",
+ "stats": {
+  "regions": 14,
+  "departements": 46,
+  "communes": 516,
+  "quartiers": 26
+ },
+ "regions": [
+  {
+   "name": "Dakar",
+   "wikidata": "Q856268",
+   "lat": 14.7157,
+   "lng": -17.4703,
+   "departements": [
+    {
+     "name": "Dakar",
+     "wikidata": "Q2066372",
+     "lat": 14.7,
+     "lng": -17.45,
+     "communes": [
+      {
+       "name": "Biscuiterie",
+       "wikidata": "Q2904637",
+       "lat": 14.7053,
+       "lng": -17.4518
+      },
+      {
+       "name": "Cambérène",
+       "wikidata": "Q2934708",
+       "lat": 14.7664,
+       "lng": -17.4302
+      },
+      {
+       "name": "Dakar-Plateau",
+       "wikidata": "Q2723940",
+       "lat": 14.675,
+       "lng": -17.4361,
+       "quartiers": [
+        {
+         "name": "Plateau",
+         "lat": 14.6705,
+         "lng": -17.437
+        },
+        {
+         "name": "Rebeuss",
+         "lat": 14.676,
+         "lng": -17.444
+        }
+       ]
+      },
+      {
+       "name": "Dieuppeul-Derklé",
+       "wikidata": "Q3027622",
+       "lat": 14.7271,
+       "lng": -17.4567,
+       "quartiers": [
+        {
+         "name": "Castors",
+         "lat": 14.7125,
+         "lng": -17.4475
+        },
+        {
+         "name": "Derklé",
+         "lat": 14.715,
+         "lng": -17.45
+        },
+        {
+         "name": "Dieuppeul",
+         "lat": 14.7185,
+         "lng": -17.4555
+        }
+       ]
+      },
+      {
+       "name": "Fann-Point E-Amitié",
+       "wikidata": "Q3066423",
+       "lat": 14.6976,
+       "lng": -17.4567,
+       "quartiers": [
+        {
+         "name": "Amitié",
+         "lat": 14.7045,
+         "lng": -17.456
+        },
+        {
+         "name": "Fann Résidence",
+         "lat": 14.6905,
+         "lng": -17.4655
+        },
+        {
+         "name": "Point E",
+         "lat": 14.6985,
+         "lng": -17.46
+        }
+       ]
+      },
+      {
+       "name": "Gorée",
+       "wikidata": "Q244347",
+       "lat": 14.6669,
+       "lng": -17.3983
+      },
+      {
+       "name": "Grand Dakar",
+       "wikidata": "Q3113582",
+       "lat": 14.7087,
+       "lng": -17.4575
+      },
+      {
+       "name": "Grand Yoff",
+       "wikidata": "Q3114638",
+       "lat": 14.7391,
+       "lng": -17.4581
+      },
+      {
+       "name": "Gueule Tapée-Fass-Colobane",
+       "wikidata": "Q3119246",
+       "lat": 14.6949,
+       "lng": -17.4515,
+       "quartiers": [
+        {
+         "name": "Colobane",
+         "lat": 14.6935,
+         "lng": -17.445
+        },
+        {
+         "name": "Fass",
+         "lat": 14.689,
+         "lng": -17.4505
+        },
+        {
+         "name": "Gueule Tapée",
+         "lat": 14.6915,
+         "lng": -17.457
+        }
+       ]
+      },
+      {
+       "name": "Hann Bel-Air",
+       "wikidata": "Q3126815",
+       "lat": 14.7246,
+       "lng": -17.43,
+       "quartiers": [
+        {
+         "name": "Bel-Air",
+         "lat": 14.7035,
+         "lng": -17.425
+        },
+        {
+         "name": "Hann Maristes",
+         "lat": 14.7365,
+         "lng": -17.433
+        },
+        {
+         "name": "Hann Village",
+         "lat": 14.721,
+         "lng": -17.428
+        }
+       ]
+      },
+      {
+       "name": "HLM",
+       "wikidata": "Q3124897",
+       "lat": 14.7068,
+       "lng": -17.4421
+      },
+      {
+       "name": "Médina",
+       "wikidata": "Q3332660",
+       "lat": 14.6824,
+       "lng": -17.4512
+      },
+      {
+       "name": "Mermoz-Sacré-Cœur",
+       "wikidata": "Q3306583",
+       "lat": 14.7053,
+       "lng": -17.4627,
+       "quartiers": [
+        {
+         "name": "Mermoz",
+         "lat": 14.708,
+         "lng": -17.476
+        },
+        {
+         "name": "Pyrotechnie",
+         "lat": 14.704,
+         "lng": -17.4685
+        },
+        {
+         "name": "Sacré-Cœur",
+         "lat": 14.7205,
+         "lng": -17.468
+        }
+       ]
+      },
+      {
+       "name": "Ngor",
+       "wikidata": "Q949353",
+       "lat": 14.7456,
+       "lng": -17.5144,
+       "quartiers": [
+        {
+         "name": "Almadies",
+         "lat": 14.743,
+         "lng": -17.523
+        },
+        {
+         "name": "Ngor",
+         "lat": 14.748,
+         "lng": -17.513
+        }
+       ]
+      },
+      {
+       "name": "Ouakam",
+       "wikidata": "Q3357914",
+       "lat": 14.7215,
+       "lng": -17.4918,
+       "quartiers": [
+        {
+         "name": "Cité Avion",
+         "lat": 14.732,
+         "lng": -17.487
+        },
+        {
+         "name": "Mamelles",
+         "lat": 14.73,
+         "lng": -17.505
+        },
+        {
+         "name": "Ouakam",
+         "lat": 14.723,
+         "lng": -17.492
+        }
+       ]
+      },
+      {
+       "name": "Parcelles Assainies",
+       "wikidata": "Q3234447",
+       "lat": 14.7575,
+       "lng": -17.4378
+      },
+      {
+       "name": "Patte d'Oie",
+       "wikidata": "Q3370147",
+       "lat": 14.749,
+       "lng": -17.4432
+      },
+      {
+       "name": "Sicap-Liberté",
+       "wikidata": "Q3483025",
+       "lat": 14.7296,
+       "lng": -17.4676,
+       "quartiers": [
+        {
+         "name": "Liberté 6",
+         "lat": 14.7295,
+         "lng": -17.4655
+        },
+        {
+         "name": "Sicap Liberté",
+         "lat": 14.72,
+         "lng": -17.459
+        }
+       ]
+      },
+      {
+       "name": "Yoff",
+       "wikidata": "Q3098136",
+       "lat": 14.7558,
+       "lng": -17.4745,
+       "quartiers": [
+        {
+         "name": "Nord Foire",
+         "lat": 14.744,
+         "lng": -17.465
+        },
+        {
+         "name": "Yoff Village",
+         "lat": 14.759,
+         "lng": -17.471
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Guédiawaye",
+     "wikidata": "Q957409",
+     "lat": 14.7712,
+     "lng": -17.3866,
+     "communes": [
+      {
+       "name": "Golf Sud",
+       "wikidata": "Q30744429",
+       "lat": 14.7654,
+       "lng": -17.4143
+      },
+      {
+       "name": "Médina Gounass",
+       "wikidata": "Q30744777",
+       "lat": 14.7713,
+       "lng": -17.3814
+      },
+      {
+       "name": "Ndiarème Limamoulaye",
+       "wikidata": "Q30744802",
+       "lat": 14.7791,
+       "lng": -17.3835
+      },
+      {
+       "name": "Sam Notaire",
+       "wikidata": "Q30744767",
+       "lat": 14.7745,
+       "lng": -17.3959
+      },
+      {
+       "name": "Wakhinane Nimzatt",
+       "wikidata": "Q30744265",
+       "lat": 14.7869,
+       "lng": -17.375
+      }
+     ]
+    },
+    {
+     "name": "Keur Massar",
+     "wikidata": "Q3195628",
+     "lat": 14.7785,
+     "lng": -17.3139,
+     "communes": [
+      {
+       "name": "Jaxaay-Parcelles",
+       "wikidata": "Q129909528",
+       "lat": 14.7695,
+       "lng": -17.2824
+      },
+      {
+       "name": "Keur Massar Nord",
+       "wikidata": "Q125698430",
+       "lat": 14.7844,
+       "lng": -17.3095
+      },
+      {
+       "name": "Keur Massar Sud",
+       "wikidata": "Q129871284",
+       "lat": 14.7716,
+       "lng": -17.3008
+      },
+      {
+       "name": "Malika",
+       "wikidata": "Q3282073",
+       "lat": 14.7989,
+       "lng": -17.337
+      },
+      {
+       "name": "Yeumbeul Nord",
+       "wikidata": "Q3572236",
+       "lat": 14.7763,
+       "lng": -17.3525
+      },
+      {
+       "name": "Yeumbeul Sud",
+       "wikidata": "Q3572238",
+       "lat": 14.7692,
+       "lng": -17.3619
+      }
+     ]
+    },
+    {
+     "name": "Pikine",
+     "wikidata": "Q255486",
+     "lat": 14.7503,
+     "lng": -17.3997,
+     "communes": [
+      {
+       "name": "Dalifort",
+       "wikidata": "Q3012393",
+       "lat": 14.741,
+       "lng": -17.4182
+      },
+      {
+       "name": "Diamaguène Sicap Mbao",
+       "wikidata": "Q3026043",
+       "lat": 14.7484,
+       "lng": -17.3523
+      },
+      {
+       "name": "Djiddah Thiaroye Kao",
+       "wikidata": "Q3032940",
+       "lat": 14.7703,
+       "lng": -17.3792
+      },
+      {
+       "name": "Guinaw Rail Nord",
+       "wikidata": "Q3120605",
+       "lat": 14.7551,
+       "lng": -17.3799
+      },
+      {
+       "name": "Guinaw Rail Sud",
+       "wikidata": "Q3120606",
+       "lat": 14.7444,
+       "lng": -17.3851
+      },
+      {
+       "name": "Mbao",
+       "wikidata": "Q3303488",
+       "lat": 14.7308,
+       "lng": -17.3244
+      },
+      {
+       "name": "Pikine Est",
+       "wikidata": "Q3388356",
+       "lat": 14.7572,
+       "lng": -17.3891
+      },
+      {
+       "name": "Pikine Nord",
+       "wikidata": "Q3388355",
+       "lat": 14.7603,
+       "lng": -17.3952
+      },
+      {
+       "name": "Pikine Ouest",
+       "wikidata": "Q3388357",
+       "lat": 14.753,
+       "lng": -17.3993
+      },
+      {
+       "name": "Thiaroye Gare",
+       "wikidata": "Q3523980",
+       "lat": 14.7625,
+       "lng": -17.3743
+      },
+      {
+       "name": "Thiaroye-sur-Mer",
+       "wikidata": "Q2408616",
+       "lat": 14.7444,
+       "lng": -17.375
+      },
+      {
+       "name": "Tivaouane Diacksao",
+       "wikidata": "Q3529952",
+       "lat": 14.7468,
+       "lng": -17.3623
+      }
+     ]
+    },
+    {
+     "name": "Rufisque",
+     "wikidata": "Q2067770",
+     "lat": 14.7133,
+     "lng": -17.2714,
+     "communes": [
+      {
+       "name": "Bambilor",
+       "wikidata": "Q16541558",
+       "lat": 14.8001,
+       "lng": -17.1881
+      },
+      {
+       "name": "Bargny",
+       "wikidata": "Q2884475",
+       "lat": 14.6944,
+       "lng": -17.2306
+      },
+      {
+       "name": "Diamniadio",
+       "wikidata": "Q3026080",
+       "lat": 14.7199,
+       "lng": -17.1842
+      },
+      {
+       "name": "Rufisque Est",
+       "wikidata": "Q2419563",
+       "lat": 14.7178,
+       "lng": -17.2619
+      },
+      {
+       "name": "Rufisque Nord",
+       "wikidata": "Q3452793",
+       "lat": 14.7222,
+       "lng": -17.2631
+      },
+      {
+       "name": "Rufisque Ouest",
+       "wikidata": "Q3452794",
+       "lat": 14.7258,
+       "lng": -17.2824
+      },
+      {
+       "name": "Sangalkam",
+       "wikidata": "Q3472184",
+       "lat": 14.7768,
+       "lng": -17.2256
+      },
+      {
+       "name": "Sébikotane",
+       "wikidata": "Q842200",
+       "lat": 14.7428,
+       "lng": -17.1419
+      },
+      {
+       "name": "Sendou",
+       "wikidata": "Q16676040",
+       "lat": 14.6665,
+       "lng": -17.1996
+      },
+      {
+       "name": "Tivaouane Peulh-Niaga",
+       "wikidata": "Q16542720",
+       "lat": 14.8018,
+       "lng": -17.2906
+      },
+      {
+       "name": "Yène",
+       "wikidata": "Q16542787",
+       "lat": 14.6406,
+       "lng": -17.1732
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diourbel",
+   "wikidata": "Q856261",
+   "lat": 14.7422,
+   "lng": -16.0637,
+   "departements": [
+    {
+     "name": "Bambey",
+     "wikidata": "Q2067986",
+     "lat": 14.8027,
+     "lng": -16.4826,
+     "communes": [
+      {
+       "name": "Baba Garage",
+       "wikidata": "Q16541528",
+       "lat": 14.9429,
+       "lng": -16.4894
+      },
+      {
+       "name": "Dinguiraye",
+       "wikidata": "Q16541764",
+       "lat": 14.9721,
+       "lng": -16.4605
+      },
+      {
+       "name": "Gawane",
+       "wikidata": "Q16541909",
+       "lat": 14.8517,
+       "lng": -16.3903
+      },
+      {
+       "name": "Keur Samba Kane",
+       "wikidata": "Q16542007",
+       "lat": 14.8968,
+       "lng": -16.5979
+      },
+      {
+       "name": "Lambaye",
+       "wikidata": "Q16627996",
+       "lat": 14.8023,
+       "lng": -16.5361
+      },
+      {
+       "name": "Ndangalma",
+       "wikidata": "Q16542239",
+       "lat": 14.725,
+       "lng": -16.5639
+      },
+      {
+       "name": "Ndondol",
+       "wikidata": "Q16542316",
+       "lat": 14.6437,
+       "lng": -16.5795
+      },
+      {
+       "name": "Ngogom",
+       "wikidata": "Q16542365",
+       "lat": 14.7417,
+       "lng": -16.5306
+      },
+      {
+       "name": "Ngoye",
+       "wikidata": "Q16542380",
+       "lat": 14.6417,
+       "lng": -16.4333
+      },
+      {
+       "name": "Réfane",
+       "wikidata": "Q16542539",
+       "lat": 14.79,
+       "lng": -16.615
+      },
+      {
+       "name": "Thiakhar",
+       "wikidata": "Q16628032",
+       "lat": 14.6969,
+       "lng": -16.3608
+      }
+     ]
+    },
+    {
+     "name": "Diourbel",
+     "wikidata": "Q2068102",
+     "lat": 14.7783,
+     "lng": -16.2231,
+     "communes": [
+      {
+       "name": "Gade Escale",
+       "wikidata": "Q16541875",
+       "lat": 14.7493,
+       "lng": -16.3078
+      },
+      {
+       "name": "Keur Ngalgou",
+       "wikidata": "Q16541994",
+       "lat": 14.8722,
+       "lng": -16.3072
+      },
+      {
+       "name": "Ndankh Sene",
+       "wikidata": "Q16542243",
+       "lat": 14.8417,
+       "lng": -16.1417
+      },
+      {
+       "name": "Ndindy",
+       "wikidata": "Q16542277",
+       "lat": 14.8972,
+       "lng": -16.2
+      },
+      {
+       "name": "Ndoulo",
+       "wikidata": "Q16542324",
+       "lat": 14.7428,
+       "lng": -16.1092
+      },
+      {
+       "name": "Ngohe",
+       "wikidata": "Q16628013",
+       "lat": 14.6222,
+       "lng": -16.2881
+      },
+      {
+       "name": "Patar",
+       "wikidata": "Q16542503",
+       "lat": 14.7103,
+       "lng": -16.1567
+      },
+      {
+       "name": "Taïba Moutoupha",
+       "wikidata": "Q16542663",
+       "lat": 14.7978,
+       "lng": -16.2997
+      },
+      {
+       "name": "Tocky Gare",
+       "wikidata": "Q16542724",
+       "lat": 14.5942,
+       "lng": -16.1483
+      },
+      {
+       "name": "Toure Mbonde",
+       "wikidata": "Q16542759",
+       "lat": 14.7261,
+       "lng": -16.2211
+      }
+     ]
+    },
+    {
+     "name": "Mbacké",
+     "wikidata": "Q2068182",
+     "lat": 14.8083,
+     "lng": -15.8644,
+     "communes": [
+      {
+       "name": "Dalla Ngabou",
+       "wikidata": "Q16541652",
+       "lat": 14.7739,
+       "lng": -15.9903
+      },
+      {
+       "name": "Darou Nahim",
+       "wikidata": "Q16541679",
+       "lat": 14.7389,
+       "lng": -15.9919
+      },
+      {
+       "name": "Darou Salam Typ",
+       "wikidata": "Q16541683",
+       "lat": 14.6705,
+       "lng": -15.8559
+      },
+      {
+       "name": "Dendeye Gouy Gui",
+       "wikidata": "Q16541690",
+       "lat": 14.6087,
+       "lng": -16.0428
+      },
+      {
+       "name": "Kael",
+       "wikidata": "Q16541939",
+       "lat": 14.4949,
+       "lng": -15.9013
+      },
+      {
+       "name": "Madina",
+       "wikidata": "Q16542101",
+       "lat": 13.1504,
+       "lng": -13.7563
+      },
+      {
+       "name": "Ndioumane",
+       "wikidata": "Q139694569",
+       "lat": 14.6303,
+       "lng": -15.9983
+      },
+      {
+       "name": "Nghaye",
+       "wikidata": "Q16542357",
+       "lat": 14.8189,
+       "lng": -16.0469
+      },
+      {
+       "name": "Sadio",
+       "wikidata": "Q16542548",
+       "lat": 14.7978,
+       "lng": -15.5464
+      },
+      {
+       "name": "Taïba Thiékène",
+       "wikidata": "Q2989373",
+       "lat": 14.7282,
+       "lng": -15.9863
+      },
+      {
+       "name": "Taïf",
+       "wikidata": "Q16542674",
+       "lat": 14.7886,
+       "lng": -15.65
+      },
+      {
+       "name": "Touba Fall",
+       "wikidata": "Q16542734",
+       "lat": 14.8667,
+       "lng": -15.9931
+      },
+      {
+       "name": "Touba Mboul",
+       "wikidata": "Q16628038",
+       "lat": 14.5733,
+       "lng": -15.9511
+      },
+      {
+       "name": "Touba Mosquée",
+       "wikidata": "Q16542743",
+       "lat": 14.85,
+       "lng": -15.8833
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Fatick",
+   "wikidata": "Q856282",
+   "lat": 14.3411,
+   "lng": -16.4142,
+   "departements": [
+    {
+     "name": "Fatick",
+     "wikidata": "Q2068250",
+     "lat": 14.3291,
+     "lng": -16.4064,
+     "communes": [
+      {
+       "name": "Diakhao",
+       "wikidata": "Q3025927",
+       "lat": 14.4628,
+       "lng": -16.2902
+      },
+      {
+       "name": "Diaoulé",
+       "wikidata": "Q16541736",
+       "lat": 14.3782,
+       "lng": -16.2216
+      },
+      {
+       "name": "Diarrère",
+       "wikidata": "Q16541743",
+       "lat": 14.4397,
+       "lng": -16.48
+      },
+      {
+       "name": "Diofior",
+       "wikidata": "Q685330",
+       "lat": 14.1853,
+       "lng": -16.6611
+      },
+      {
+       "name": "Diouroup",
+       "wikidata": "Q16541793",
+       "lat": 14.3681,
+       "lng": -16.5228
+      },
+      {
+       "name": "Djilasse",
+       "wikidata": "Q16541804",
+       "lat": 14.2485,
+       "lng": -16.6356
+      },
+      {
+       "name": "Fatick",
+       "wikidata": "Q430470",
+       "lat": 14.3393,
+       "lng": -16.4104
+      },
+      {
+       "name": "Fimela",
+       "wikidata": "Q16541862",
+       "lat": 14.1314,
+       "lng": -16.663
+      },
+      {
+       "name": "Loul Sessène",
+       "wikidata": "Q16542084",
+       "lat": 14.3174,
+       "lng": -16.61
+      },
+      {
+       "name": "Mbéllacadiao",
+       "wikidata": "Q16542175",
+       "lat": 14.3411,
+       "lng": -16.2938
+      },
+      {
+       "name": "Ndiob",
+       "wikidata": "Q16542281",
+       "lat": 14.5492,
+       "lng": -16.2525
+      },
+      {
+       "name": "Ngayokhème",
+       "wikidata": "Q16542349",
+       "lat": 14.5332,
+       "lng": -16.4332
+      },
+      {
+       "name": "Niakhar",
+       "wikidata": "Q16542405",
+       "lat": 14.4834,
+       "lng": -16.4002
+      },
+      {
+       "name": "Palmarin Facao",
+       "wikidata": "Q16628021",
+       "lat": 14.0244,
+       "lng": -16.7677
+      },
+      {
+       "name": "Patar Sine",
+       "wikidata": "Q16542511",
+       "lat": 14.5631,
+       "lng": -16.3821
+      },
+      {
+       "name": "Tattaguine",
+       "wikidata": "Q16628029",
+       "lat": 14.4231,
+       "lng": -16.6016
+      },
+      {
+       "name": "Thiaré Ndialgui",
+       "wikidata": "Q16542693",
+       "lat": 14.4414,
+       "lng": -16.2464
+      }
+     ]
+    },
+    {
+     "name": "Foundiougne",
+     "wikidata": "Q2068339",
+     "lat": 14.1242,
+     "lng": -16.4674,
+     "communes": [
+      {
+       "name": "Bassoul",
+       "wikidata": "Q16541577",
+       "lat": 13.9276,
+       "lng": -16.5911
+      },
+      {
+       "name": "Diagane Barka",
+       "wikidata": "Q16541694",
+       "lat": 14.0204,
+       "lng": -16.294
+      },
+      {
+       "name": "Dionewar",
+       "wikidata": "Q16541780",
+       "lat": 13.8881,
+       "lng": -16.7309
+      },
+      {
+       "name": "Diossong",
+       "wikidata": "Q16541784",
+       "lat": 13.9279,
+       "lng": -16.3311
+      },
+      {
+       "name": "Djilor",
+       "wikidata": "Q16627976",
+       "lat": 14.0593,
+       "lng": -16.3345
+      },
+      {
+       "name": "Djirnda",
+       "wikidata": "Q16541817",
+       "lat": 13.9806,
+       "lng": -16.6089
+      },
+      {
+       "name": "Foundiougne",
+       "wikidata": "Q3079946",
+       "lat": 14.1278,
+       "lng": -16.4666
+      },
+      {
+       "name": "Karang Poste",
+       "wikidata": "Q3192944",
+       "lat": 13.6086,
+       "lng": -16.4256
+      },
+      {
+       "name": "Keur Saloum Diané",
+       "wikidata": "Q16541998",
+       "lat": 13.7585,
+       "lng": -16.2676
+      },
+      {
+       "name": "Keur Samba Guèye",
+       "wikidata": "Q16542002",
+       "lat": 13.6499,
+       "lng": -16.3613
+      },
+      {
+       "name": "Mbam",
+       "wikidata": "Q16542140",
+       "lat": 14.1214,
+       "lng": -16.4358
+      },
+      {
+       "name": "Niassène",
+       "wikidata": "Q16542417",
+       "lat": 13.9515,
+       "lng": -16.2312
+      },
+      {
+       "name": "Nioro Alassane Tall",
+       "wikidata": "Q16542429",
+       "lat": 13.7754,
+       "lng": -16.3392
+      },
+      {
+       "name": "Passy",
+       "wikidata": "Q3368418",
+       "lat": 13.9869,
+       "lng": -16.2582
+      },
+      {
+       "name": "Sokone",
+       "wikidata": "Q3489051",
+       "lat": 13.8808,
+       "lng": -16.3746
+      },
+      {
+       "name": "Soum",
+       "wikidata": "Q3491727",
+       "lat": 14.0877,
+       "lng": -16.4801
+      },
+      {
+       "name": "Toubacouta",
+       "wikidata": "Q16542751",
+       "lat": 13.7793,
+       "lng": -16.4685
+      }
+     ]
+    },
+    {
+     "name": "Gossas",
+     "wikidata": "Q2068411",
+     "lat": 14.4972,
+     "lng": -16.2342,
+     "communes": [
+      {
+       "name": "Colobane",
+       "wikidata": "Q16541637",
+       "lat": 14.6449,
+       "lng": -15.7077
+      },
+      {
+       "name": "Gossas",
+       "wikidata": "Q3111445",
+       "lat": 14.4915,
+       "lng": -16.0675
+      },
+      {
+       "name": "Mbar",
+       "wikidata": "Q16628001",
+       "lat": 14.5374,
+       "lng": -15.7588
+      },
+      {
+       "name": "Ndiène Lagane",
+       "wikidata": "Q16542299",
+       "lat": 14.5143,
+       "lng": -15.921
+      },
+      {
+       "name": "Ouadiour",
+       "wikidata": "Q16542461",
+       "lat": 14.4386,
+       "lng": -16.0565
+      },
+      {
+       "name": "Patar Lia",
+       "wikidata": "Q16542507",
+       "lat": 14.4908,
+       "lng": -16.1571
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kaffrine",
+   "wikidata": "Q1059694",
+   "lat": 14.1044,
+   "lng": -15.5499,
+   "departements": [
+    {
+     "name": "Birkelane",
+     "wikidata": "Q2068560",
+     "lat": 14.1284,
+     "lng": -15.7439,
+     "communes": [
+      {
+       "name": "Kahi",
+       "wikidata": "Q16541944",
+       "lat": 13.9104,
+       "lng": -15.5285
+      },
+      {
+       "name": "Keur Mboucki",
+       "wikidata": "Q16541986",
+       "lat": 13.9644,
+       "lng": -15.786
+      },
+      {
+       "name": "Mabo",
+       "wikidata": "Q16542096",
+       "lat": 13.242,
+       "lng": -15.6404
+      },
+      {
+       "name": "Mbeuleup",
+       "wikidata": "Q16542157",
+       "lat": 13.8092,
+       "lng": -15.5463
+      },
+      {
+       "name": "Ndiognick",
+       "wikidata": "Q16542291",
+       "lat": 14.0015,
+       "lng": -15.6382
+      },
+      {
+       "name": "Ségré Gatta",
+       "wikidata": "Q16542636",
+       "lat": 13.8789,
+       "lng": -15.7324
+      },
+      {
+       "name": "Thiaré",
+       "wikidata": "Q16542689",
+       "lat": 13.8974,
+       "lng": -15.779
+      },
+      {
+       "name": "Touba Mbella",
+       "wikidata": "Q16542739",
+       "lat": 13.1199,
+       "lng": -15.6898
+      }
+     ]
+    },
+    {
+     "name": "Kaffrine",
+     "wikidata": "Q2068509",
+     "lat": 14.1043,
+     "lng": -15.5495,
+     "communes": [
+      {
+       "name": "Diamagadio",
+       "wikidata": "Q16541712",
+       "lat": 3.825,
+       "lng": -15.4454
+      },
+      {
+       "name": "Diamal",
+       "wikidata": "Q16541716",
+       "lat": 13.3676,
+       "lng": -15.8533
+      },
+      {
+       "name": "Gniby",
+       "wikidata": "Q16627988",
+       "lat": 14.4315,
+       "lng": -15.6553
+      },
+      {
+       "name": "Kathiotte",
+       "wikidata": "Q16541969",
+       "lat": 13.9506,
+       "lng": -15.4062
+      },
+      {
+       "name": "Médinatoul Salam 2",
+       "wikidata": "Q16542215",
+       "lat": 12.9373,
+       "lng": -15.3692
+      },
+      {
+       "name": "Nganda",
+       "wikidata": "Q7021974",
+       "lat": 13.8298,
+       "lng": -15.4057
+      }
+     ]
+    },
+    {
+     "name": "Koungheul",
+     "wikidata": "Q929723",
+     "lat": 13.9802,
+     "lng": -14.8002,
+     "communes": [
+      {
+       "name": "Ida Mouride",
+       "wikidata": "Q16541931",
+       "lat": 13.6306,
+       "lng": -14.7684
+      },
+      {
+       "name": "Koungheul",
+       "wikidata": "Q3100527",
+       "lat": 13.9667,
+       "lng": -14.8053
+      },
+      {
+       "name": "Lour Escale",
+       "wikidata": "Q16542088",
+       "lat": 10.7112,
+       "lng": -15.6033
+      },
+      {
+       "name": "Maka Yop",
+       "wikidata": "Q16542109",
+       "lat": 13.6827,
+       "lng": -14.9963
+      },
+      {
+       "name": "Missirah Wadène",
+       "wikidata": "Q16542187",
+       "lat": 13.5813,
+       "lng": -15.0856
+      },
+      {
+       "name": "Ngainthe Pathè",
+       "wikidata": "Q16542336",
+       "lat": 13.589,
+       "lng": -14.944
+      },
+      {
+       "name": "Ribot Escale",
+       "wikidata": "Q16542532",
+       "lat": 13.1871,
+       "lng": -14.8
+      },
+      {
+       "name": "Saly Escale",
+       "wikidata": "Q16542573",
+       "lat": 13.8592,
+       "lng": -14.9184
+      }
+     ]
+    },
+    {
+     "name": "Malem Hodar",
+     "wikidata": "Q2075437",
+     "lat": 14.0884,
+     "lng": -15.2945,
+     "communes": [
+      {
+       "name": "Darou Minam 2",
+       "wikidata": "Q16541671",
+       "lat": 14.503,
+       "lng": -15.257
+      },
+      {
+       "name": "Dianké Souf",
+       "wikidata": "Q16541728",
+       "lat": 13.4945,
+       "lng": -15.3726
+      },
+      {
+       "name": "Fass Thiékène",
+       "wikidata": "Q16541858",
+       "lat": 13.8942,
+       "lng": -14.7938
+      },
+      {
+       "name": "Khelcom",
+       "wikidata": "Q16542012",
+       "lat": 14.1601,
+       "lng": -16.1003
+      },
+      {
+       "name": "Ndiobène Samba Lamo",
+       "wikidata": "Q16542287",
+       "lat": 12.3688,
+       "lng": -16.349
+      },
+      {
+       "name": "Ndioum Ngainth",
+       "wikidata": "Q16542295",
+       "lat": 14.1868,
+       "lng": -15.2147
+      },
+      {
+       "name": "Sagna",
+       "wikidata": "Q16542561",
+       "lat": 11.8156,
+       "lng": -14.9126
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kaolack",
+   "wikidata": "Q847671",
+   "lat": 14.1652,
+   "lng": -16.0761,
+   "departements": [
+    {
+     "name": "Guinguinéo",
+     "wikidata": "Q932767",
+     "lat": 14.2656,
+     "lng": -15.9347,
+     "communes": [
+      {
+       "name": "Boulel",
+       "wikidata": "Q16541613",
+       "lat": 14.2852,
+       "lng": -15.5342
+      },
+      {
+       "name": "Dara Mboss",
+       "wikidata": "Q16541659",
+       "lat": 14.3473,
+       "lng": -15.7683
+      },
+      {
+       "name": "Gagnick",
+       "wikidata": "Q16541879",
+       "lat": 14.3096,
+       "lng": -16.0041
+      },
+      {
+       "name": "Khelcom Birane",
+       "wikidata": "Q16542014",
+       "lat": 14.2236,
+       "lng": -16.0617
+      },
+      {
+       "name": "Mbadakhoune",
+       "wikidata": "Q16542133",
+       "lat": 14.2127,
+       "lng": -15.946
+      },
+      {
+       "name": "Mboss",
+       "wikidata": "Q16542163",
+       "lat": 13.9961,
+       "lng": -16.0037
+      },
+      {
+       "name": "Ndiago",
+       "wikidata": "Q16542262",
+       "lat": 14.2815,
+       "lng": -15.9291
+      },
+      {
+       "name": "Ngathie Naoudé",
+       "wikidata": "Q16542345",
+       "lat": 14.1316,
+       "lng": -15.8813
+      },
+      {
+       "name": "Nguélou",
+       "wikidata": "Q16542394",
+       "lat": 14.3738,
+       "lng": -15.9527
+      },
+      {
+       "name": "Ourour",
+       "wikidata": "Q16628015",
+       "lat": 14.3258,
+       "lng": -16.0321
+      },
+      {
+       "name": "Panal Wolof",
+       "wikidata": "Q16542490",
+       "lat": 14.2221,
+       "lng": -15.742
+      }
+     ]
+    },
+    {
+     "name": "Kaolack",
+     "wikidata": "Q2082914",
+     "lat": 14.0573,
+     "lng": -16.079,
+     "communes": [
+      {
+       "name": "Dya",
+       "wikidata": "Q16541835",
+       "lat": 14.0197,
+       "lng": -16.1801
+      },
+      {
+       "name": "Gandiaye",
+       "wikidata": "Q3095100",
+       "lat": 14.2445,
+       "lng": -16.2728
+      },
+      {
+       "name": "Kahone",
+       "wikidata": "Q377696",
+       "lat": 14.1614,
+       "lng": -16.0308
+      },
+      {
+       "name": "Keur Baka",
+       "wikidata": "Q16541976",
+       "lat": 13.7297,
+       "lng": -15.9377
+      },
+      {
+       "name": "Keur Socé",
+       "wikidata": "Q16542010",
+       "lat": 13.7384,
+       "lng": -16.0263
+      },
+      {
+       "name": "Latmingué",
+       "wikidata": "Q16627999",
+       "lat": 13.6907,
+       "lng": -15.9686
+      },
+      {
+       "name": "Ndiaffate",
+       "wikidata": "Q16542251",
+       "lat": 14.0755,
+       "lng": -16.1681
+      },
+      {
+       "name": "Ndiébel",
+       "wikidata": "Q16542302",
+       "lat": 14.1229,
+       "lng": -16.1815
+      },
+      {
+       "name": "Ndiédieng",
+       "wikidata": "Q16542304",
+       "lat": 13.7004,
+       "lng": -16.1341
+      },
+      {
+       "name": "Ndofane",
+       "wikidata": "Q3337496",
+       "lat": 13.9175,
+       "lng": -15.9276
+      },
+      {
+       "name": "Thiomby",
+       "wikidata": "Q16542711",
+       "lat": 14.2212,
+       "lng": -16.3074
+      }
+     ]
+    },
+    {
+     "name": "Nioro du Rip",
+     "wikidata": "Q2083026",
+     "lat": 13.7445,
+     "lng": -15.7736,
+     "communes": [
+      {
+       "name": "Gainthe Kaye",
+       "wikidata": "Q16541883",
+       "lat": 13.6323,
+       "lng": -15.9515
+      },
+      {
+       "name": "Kayemor",
+       "wikidata": "Q16541972",
+       "lat": 13.5576,
+       "lng": -15.5656
+      },
+      {
+       "name": "Keur Maba Diakhou",
+       "wikidata": "Q16541979",
+       "lat": 13.8721,
+       "lng": -15.6253
+      },
+      {
+       "name": "Keur Madiabel",
+       "wikidata": "Q3195629",
+       "lat": 13.848,
+       "lng": -16.057
+      },
+      {
+       "name": "Keur Madongo",
+       "wikidata": "Q16541983",
+       "lat": 13.6356,
+       "lng": -16.0819
+      },
+      {
+       "name": "Médina Sabakh",
+       "wikidata": "Q16542213",
+       "lat": 13.2607,
+       "lng": -15.6143
+      },
+      {
+       "name": "Ngayène",
+       "wikidata": "Q16542353",
+       "lat": 13.4948,
+       "lng": -15.4845
+      },
+      {
+       "name": "Paoskoto",
+       "wikidata": "Q16542496",
+       "lat": 13.609,
+       "lng": -15.834
+      },
+      {
+       "name": "Porokhane",
+       "wikidata": "Q16542522",
+       "lat": 13.4728,
+       "lng": -15.8423
+      },
+      {
+       "name": "Taïba Niassène",
+       "wikidata": "Q16542671",
+       "lat": 13.5816,
+       "lng": -15.902
+      },
+      {
+       "name": "Wack Ngouna",
+       "wikidata": "Q16542768",
+       "lat": 13.7584,
+       "lng": -16.0615
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kédougou",
+   "wikidata": "Q1046666",
+   "lat": 12.5595,
+   "lng": -12.1745,
+   "departements": [
+    {
+     "name": "Kédougou",
+     "wikidata": "Q2083190",
+     "lat": 12.5578,
+     "lng": -12.1742,
+     "communes": [
+      {
+       "name": "Bandafassi",
+       "wikidata": "Q16541562",
+       "lat": 12.5387,
+       "lng": -12.3106
+      },
+      {
+       "name": "Dimboli",
+       "wikidata": "Q16627970",
+       "lat": 11.745,
+       "lng": -11.964
+      },
+      {
+       "name": "Dindefelo",
+       "wikidata": "Q16541760",
+       "lat": 12.3843,
+       "lng": -12.3212
+      },
+      {
+       "name": "Fongolimbi",
+       "wikidata": "Q16541868",
+       "lat": 12.4242,
+       "lng": -12.006
+      },
+      {
+       "name": "Kédougou",
+       "wikidata": "Q586498",
+       "lat": 12.5556,
+       "lng": -12.1807
+      },
+      {
+       "name": "Ninéfécha",
+       "wikidata": "Q16542421",
+       "lat": 12.7495,
+       "lng": -12.7922
+      },
+      {
+       "name": "Tomboroncoto",
+       "wikidata": "Q16542728",
+       "lat": 12.9115,
+       "lng": -12.5574
+      }
+     ]
+    },
+    {
+     "name": "Salémata",
+     "wikidata": "Q2075446",
+     "lat": 12.6341,
+     "lng": -12.8199,
+     "communes": [
+      {
+       "name": "Dakateli",
+       "wikidata": "Q16541648",
+       "lat": 12.4668,
+       "lng": -12.6501
+      },
+      {
+       "name": "Dar Salam",
+       "wikidata": "Q16541656",
+       "lat": 12.6306,
+       "lng": -12.7889
+      },
+      {
+       "name": "Ethiolo",
+       "wikidata": "Q16627979",
+       "lat": 12.5387,
+       "lng": -12.8507
+      },
+      {
+       "name": "Kévoye",
+       "wikidata": "Q16542060",
+       "lat": 12.576,
+       "lng": -12.775
+      },
+      {
+       "name": "Oubadji",
+       "wikidata": "Q16542471",
+       "lat": 12.6048,
+       "lng": -13.222
+      },
+      {
+       "name": "Salémata",
+       "wikidata": "Q3469700",
+       "lat": 12.6342,
+       "lng": -12.8198
+      }
+     ]
+    },
+    {
+     "name": "Saraya",
+     "wikidata": "Q942594",
+     "lat": 12.8385,
+     "lng": -11.7542,
+     "communes": [
+      {
+       "name": "Bembou",
+       "wikidata": "Q2895258",
+       "lat": 12.8285,
+       "lng": -11.8772
+      },
+      {
+       "name": "Khossanto",
+       "wikidata": "Q16542017",
+       "lat": 13.1811,
+       "lng": -11.9614
+      },
+      {
+       "name": "Médina Baffé",
+       "wikidata": "Q16628006",
+       "lat": 12.5182,
+       "lng": -11.6092
+      },
+      {
+       "name": "Missirah Sirimana",
+       "wikidata": "Q16542183",
+       "lat": 13.2012,
+       "lng": -11.6785
+      },
+      {
+       "name": "Saraya",
+       "wikidata": "Q3473501",
+       "lat": 12.8364,
+       "lng": -11.7552
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kolda",
+   "wikidata": "Q738081",
+   "lat": 12.9002,
+   "lng": -14.9425,
+   "departements": [
+    {
+     "name": "Kolda",
+     "wikidata": "Q2084154",
+     "lat": 12.883,
+     "lng": -14.95,
+     "communes": [
+      {
+       "name": "Bagadadji",
+       "wikidata": "Q16541536",
+       "lat": 12.8001,
+       "lng": -15.05
+      },
+      {
+       "name": "Coumbacara",
+       "wikidata": "Q16541640",
+       "lat": 12.3232,
+       "lng": -14.4731
+      },
+      {
+       "name": "Dabo",
+       "wikidata": "Q3011589",
+       "lat": 12.883,
+       "lng": -14.483
+      },
+      {
+       "name": "Dialambéré",
+       "wikidata": "Q16541702",
+       "lat": 12.5003,
+       "lng": -14.4992
+      },
+      {
+       "name": "Dioulacolon",
+       "wikidata": "Q16541790",
+       "lat": 12.8231,
+       "lng": -14.871
+      },
+      {
+       "name": "Guiro Yéro Bocar",
+       "wikidata": "Q16541923",
+       "lat": 12.5448,
+       "lng": -14.7505
+      },
+      {
+       "name": "Kolda",
+       "wikidata": "Q1011890",
+       "lat": 12.8958,
+       "lng": -14.9408
+      },
+      {
+       "name": "Mampatim",
+       "wikidata": "Q16542122",
+       "lat": 12.892,
+       "lng": -14.331
+      },
+      {
+       "name": "Médina Chérif",
+       "wikidata": "Q16542202",
+       "lat": 12.5056,
+       "lng": -14.2149
+      },
+      {
+       "name": "Médina El Hadj",
+       "wikidata": "Q16542206",
+       "lat": 12.5335,
+       "lng": -14.9393
+      },
+      {
+       "name": "Salikégné",
+       "wikidata": "Q3469766",
+       "lat": 12.6938,
+       "lng": -14.7406
+      },
+      {
+       "name": "Saré Bidji",
+       "wikidata": "Q16542593",
+       "lat": 12.9194,
+       "lng": -15.0099
+      },
+      {
+       "name": "Saré Yoba Diéga",
+       "wikidata": "Q3473754",
+       "lat": 12.7658,
+       "lng": -15.1075
+      },
+      {
+       "name": "Tankanto Escale",
+       "wikidata": "Q16542644",
+       "lat": 12.5549,
+       "lng": -15.0623
+      },
+      {
+       "name": "Thiétty",
+       "wikidata": "Q16542717",
+       "lat": 12.7753,
+       "lng": -15.065
+      }
+     ]
+    },
+    {
+     "name": "Médina Yoro Foulah",
+     "wikidata": "Q2082655",
+     "lat": 13.2906,
+     "lng": -14.7143,
+     "communes": [
+      {
+       "name": "Badion",
+       "wikidata": "Q16541532",
+       "lat": 12.7468,
+       "lng": -14.4017
+      },
+      {
+       "name": "Bignarabé",
+       "wikidata": "Q16627955",
+       "lat": 12.7425,
+       "lng": -14.8302
+      },
+      {
+       "name": "Bourouco",
+       "wikidata": "Q16627958",
+       "lat": 12.8968,
+       "lng": -15.1845
+      },
+      {
+       "name": "Dinguiraye",
+       "wikidata": "Q16541768",
+       "lat": 13.0765,
+       "lng": -14.5631
+      },
+      {
+       "name": "Fafacourou",
+       "wikidata": "Q16627983",
+       "lat": 13.2891,
+       "lng": -14.7143
+      },
+      {
+       "name": "Kéréwane",
+       "wikidata": "Q16542056",
+       "lat": 12.593,
+       "lng": -15.018
+      },
+      {
+       "name": "Koulinto",
+       "wikidata": "Q16542033",
+       "lat": 12.6557,
+       "lng": -14.7986
+      },
+      {
+       "name": "Ndorna",
+       "wikidata": "Q16542320",
+       "lat": 13.1621,
+       "lng": -15.028
+      },
+      {
+       "name": "Niaming",
+       "wikidata": "Q16542411",
+       "lat": 13.3334,
+       "lng": -14.9224
+      },
+      {
+       "name": "Pata",
+       "wikidata": "Q3368612",
+       "lat": 13.4372,
+       "lng": -14.9489
+      }
+     ]
+    },
+    {
+     "name": "Vélingara",
+     "wikidata": "Q2084519",
+     "lat": 13.125,
+     "lng": -14.1,
+     "communes": [
+      {
+       "name": "Bonconto",
+       "wikidata": "Q16541604",
+       "lat": 13.0246,
+       "lng": -13.9236
+      },
+      {
+       "name": "Diaobé-Kabendou",
+       "wikidata": "Q3026301",
+       "lat": 12.9134,
+       "lng": -14.1609
+      },
+      {
+       "name": "Kandia",
+       "wikidata": "Q16541956",
+       "lat": 12.7174,
+       "lng": -14.2081
+      },
+      {
+       "name": "Kandiaye",
+       "wikidata": "Q16541959",
+       "lat": 12.5003,
+       "lng": -14.0488
+      },
+      {
+       "name": "Kounkané",
+       "wikidata": "Q3199308",
+       "lat": 12.93,
+       "lng": -14.0804
+      },
+      {
+       "name": "Linkéring",
+       "wikidata": "Q16542074",
+       "lat": 12.9493,
+       "lng": -13.7456
+      },
+      {
+       "name": "Médina Gounass",
+       "wikidata": "Q16542209",
+       "lat": 13.1389,
+       "lng": -13.7601
+      },
+      {
+       "name": "Némataba",
+       "wikidata": "Q16542440",
+       "lat": 13.2259,
+       "lng": -14.0659
+      },
+      {
+       "name": "Ouassadou",
+       "wikidata": "Q16542468",
+       "lat": 12.3487,
+       "lng": -14.1737
+      },
+      {
+       "name": "Pakour",
+       "wikidata": "Q16628018",
+       "lat": 12.761,
+       "lng": -13.96
+      },
+      {
+       "name": "Paroumba",
+       "wikidata": "Q16542499",
+       "lat": 12.3756,
+       "lng": -13.7741
+      },
+      {
+       "name": "Saré Coly Sallé",
+       "wikidata": "Q16542597",
+       "lat": 13.1288,
+       "lng": -14.0893
+      },
+      {
+       "name": "Sinthiang Koundara",
+       "wikidata": "Q16542612",
+       "lat": 13.3327,
+       "lng": -13.8241
+      },
+      {
+       "name": "Vélingara",
+       "wikidata": "Q1014390",
+       "lat": 13.1485,
+       "lng": -14.1106
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Louga",
+   "wikidata": "Q738061",
+   "lat": 15.6142,
+   "lng": -16.2286,
+   "departements": [
+    {
+     "name": "Kébémer",
+     "wikidata": "Q2086510",
+     "lat": 15.37,
+     "lng": -16.45,
+     "communes": [
+      {
+       "name": "Bandegne Ouolof",
+       "wikidata": "Q16541566",
+       "lat": 15.5233,
+       "lng": -16.3912
+      },
+      {
+       "name": "Darou Marnane",
+       "wikidata": "Q16541667",
+       "lat": 15.1358,
+       "lng": -16.2158
+      },
+      {
+       "name": "Darou Mousty",
+       "wikidata": "Q16541675",
+       "lat": 15.0721,
+       "lng": -16.0648
+      },
+      {
+       "name": "Diokoul Diawrigne",
+       "wikidata": "Q16541772",
+       "lat": 15.4206,
+       "lng": -16.6312
+      },
+      {
+       "name": "Kab Gaye",
+       "wikidata": "Q16541936",
+       "lat": 15.3401,
+       "lng": -16.6451
+      },
+      {
+       "name": "Kanène Ndiob",
+       "wikidata": "Q16627991",
+       "lat": 15.3954,
+       "lng": -16.1805
+      },
+      {
+       "name": "Loro",
+       "wikidata": "Q16542077",
+       "lat": 15.3209,
+       "lng": -16.086
+      },
+      {
+       "name": "Mbadiane",
+       "wikidata": "Q16542136",
+       "lat": 15.1026,
+       "lng": -15.9456
+      },
+      {
+       "name": "Ndande",
+       "wikidata": "Q16542235",
+       "lat": 15.2771,
+       "lng": -16.5261
+      },
+      {
+       "name": "Ndoyene",
+       "wikidata": "Q16542328",
+       "lat": 15.0174,
+       "lng": -16.0785
+      },
+      {
+       "name": "Ngourane Ouolof",
+       "wikidata": "Q16542376",
+       "lat": 15.4604,
+       "lng": -16.3268
+      },
+      {
+       "name": "Pété Ouarack",
+       "wikidata": "Q16542528",
+       "lat": 15.4136,
+       "lng": -15.9727
+      },
+      {
+       "name": "Sagatta Gueth",
+       "wikidata": "Q16542557",
+       "lat": 15.2818,
+       "lng": -16.1709
+      },
+      {
+       "name": "Sam Yabal",
+       "wikidata": "Q16542576",
+       "lat": 15.2458,
+       "lng": -15.8622
+      },
+      {
+       "name": "Thieppe",
+       "wikidata": "Q16542700",
+       "lat": 15.155,
+       "lng": -16.5756
+      },
+      {
+       "name": "Thiolom Fall",
+       "wikidata": "Q16542707",
+       "lat": 15.1348,
+       "lng": -16.3387
+      },
+      {
+       "name": "Touba Mérina",
+       "wikidata": "Q15974575",
+       "lat": 15.2568,
+       "lng": -16.0124
+      }
+     ]
+    },
+    {
+     "name": "Linguère",
+     "wikidata": "Q2084742",
+     "lat": 15.3953,
+     "lng": -15.1192,
+     "communes": [
+      {
+       "name": "Affé Djoloff",
+       "wikidata": "Q16541517",
+       "lat": 14.7516,
+       "lng": -15.4317
+      },
+      {
+       "name": "Barkédji",
+       "wikidata": "Q16541573",
+       "lat": 15.2821,
+       "lng": -14.8677
+      },
+      {
+       "name": "Boulal",
+       "wikidata": "Q16541608",
+       "lat": 15.4226,
+       "lng": -15.696
+      },
+      {
+       "name": "Dahra",
+       "wikidata": "Q3012013",
+       "lat": 15.3508,
+       "lng": -15.4783
+      },
+      {
+       "name": "Dealy",
+       "wikidata": "Q16627964",
+       "lat": 15.0549,
+       "lng": -15.6253
+      },
+      {
+       "name": "Dodji",
+       "wikidata": "Q16541824",
+       "lat": 15.5834,
+       "lng": -14.9126
+      },
+      {
+       "name": "Gassane",
+       "wikidata": "Q16541901",
+       "lat": 14.8957,
+       "lng": -15.2847
+      },
+      {
+       "name": "Kamb",
+       "wikidata": "Q16541952",
+       "lat": 15.5027,
+       "lng": -15.476
+      },
+      {
+       "name": "Labgar",
+       "wikidata": "Q16542063",
+       "lat": 15.8246,
+       "lng": -14.7457
+      },
+      {
+       "name": "Linguère",
+       "wikidata": "Q3233968",
+       "lat": 15.3958,
+       "lng": -15.1108
+      },
+      {
+       "name": "Mbeuleukhé",
+       "wikidata": "Q16663940",
+       "lat": 15.5965,
+       "lng": -15.3458
+      },
+      {
+       "name": "Mboula",
+       "wikidata": "Q16542167",
+       "lat": 15.8072,
+       "lng": -15.4529
+      },
+      {
+       "name": "Ndramé Escale",
+       "wikidata": "Q16542332",
+       "lat": 15.1773,
+       "lng": -15.5594
+      },
+      {
+       "name": "Ouarkhokh",
+       "wikidata": "Q16542465",
+       "lat": 15.384,
+       "lng": -15.238
+      },
+      {
+       "name": "Sagatta Djolof",
+       "wikidata": "Q16542552",
+       "lat": 15.2546,
+       "lng": -15.6641
+      },
+      {
+       "name": "Téssékéré Forage",
+       "wikidata": "Q16542763",
+       "lat": 15.06,
+       "lng": -15.117
+      },
+      {
+       "name": "Thiamène Djolof",
+       "wikidata": "Q16542683",
+       "lat": 15.3236,
+       "lng": -15.5156
+      },
+      {
+       "name": "Thiarny",
+       "wikidata": "Q16542687",
+       "lat": 14.298,
+       "lng": -15.172
+      },
+      {
+       "name": "Thiel",
+       "wikidata": "Q16628035",
+       "lat": 14.023,
+       "lng": -14.963
+      },
+      {
+       "name": "Yang-Yang",
+       "wikidata": "Q16542776",
+       "lat": 15.5899,
+       "lng": -15.342
+      }
+     ]
+    },
+    {
+     "name": "Louga",
+     "wikidata": "Q1976570",
+     "lat": 15.6143,
+     "lng": -16.2288,
+     "communes": [
+      {
+       "name": "Coki",
+       "wikidata": "Q16541633",
+       "lat": 15.5193,
+       "lng": -16.0115
+      },
+      {
+       "name": "Gande",
+       "wikidata": "Q16541892",
+       "lat": 15.6548,
+       "lng": -15.758
+      },
+      {
+       "name": "Guet Ardo",
+       "wikidata": "Q16541919",
+       "lat": 15.5065,
+       "lng": -16.0648
+      },
+      {
+       "name": "Kéle Gueye",
+       "wikidata": "Q16542053",
+       "lat": 15.5516,
+       "lng": -16.3058
+      },
+      {
+       "name": "Keur Momar Sarr",
+       "wikidata": "Q16541989",
+       "lat": 15.9349,
+       "lng": -15.97
+      },
+      {
+       "name": "Léona",
+       "wikidata": "Q16542092",
+       "lat": 15.7308,
+       "lng": -16.4699
+      },
+      {
+       "name": "Mbédiène",
+       "wikidata": "Q16542171",
+       "lat": 15.5086,
+       "lng": -16.2012
+      },
+      {
+       "name": "Ndiagne",
+       "wikidata": "Q16542258",
+       "lat": 13.6266,
+       "lng": -15.9884
+      },
+      {
+       "name": "Nguer Malal",
+       "wikidata": "Q16542384",
+       "lat": 15.3497,
+       "lng": -15.9068
+      },
+      {
+       "name": "Ngueune Sarr",
+       "wikidata": "Q16542388",
+       "lat": 15.2888,
+       "lng": -16.2804
+      },
+      {
+       "name": "Nguidilé",
+       "wikidata": "Q16542392",
+       "lat": 15.6001,
+       "lng": -16.2209
+      },
+      {
+       "name": "Sabodala",
+       "wikidata": "Q16542540",
+       "lat": 13.1622,
+       "lng": -12.1119
+      },
+      {
+       "name": "Sakal",
+       "wikidata": "Q16542565",
+       "lat": 15.4385,
+       "lng": -16.2309
+      },
+      {
+       "name": "Syer",
+       "wikidata": "Q16542633",
+       "lat": 15.5258,
+       "lng": -15.7503
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Matam",
+   "wikidata": "Q856275",
+   "lat": 15.66,
+   "lng": -13.2576,
+   "departements": [
+    {
+     "name": "Kanel",
+     "wikidata": "Q2085269",
+     "lat": 15.4917,
+     "lng": -13.1764,
+     "communes": [
+      {
+       "name": "Aouré",
+       "wikidata": "Q16541524",
+       "lat": 14.074,
+       "lng": -12.821
+      },
+      {
+       "name": "Bokiladji",
+       "wikidata": "Q16541597",
+       "lat": 14.5869,
+       "lng": -12.7098
+      },
+      {
+       "name": "Moudéry",
+       "wikidata": "Q16542195",
+       "lat": 14.9885,
+       "lng": -12.5765
+      },
+      {
+       "name": "Orkadiere",
+       "wikidata": "Q16542453",
+       "lat": 14.8937,
+       "lng": -12.9803
+      }
+     ]
+    },
+    {
+     "name": "Matam",
+     "wikidata": "Q2085162",
+     "lat": 15.6175,
+     "lng": -13.3303,
+     "communes": [
+      {
+       "name": "Agnam Civol",
+       "wikidata": "Q16541520",
+       "lat": 16.0069,
+       "lng": -13.6878
+      },
+      {
+       "name": "Bokidiawé",
+       "wikidata": "Q16541595",
+       "lat": 15.506,
+       "lng": -13.4253
+      },
+      {
+       "name": "Dabia",
+       "wikidata": "Q16541644",
+       "lat": 15.041,
+       "lng": -13.552
+      },
+      {
+       "name": "Hamady Ounaré",
+       "wikidata": "Q3126323",
+       "lat": 15.35,
+       "lng": -13.017
+      },
+      {
+       "name": "Nabadji Civol",
+       "wikidata": "Q16628009",
+       "lat": 15.7403,
+       "lng": -13.3883
+      },
+      {
+       "name": "Nguidjilone",
+       "wikidata": "Q16509748",
+       "lat": 15.9333,
+       "lng": -13.35
+      },
+      {
+       "name": "Ogo",
+       "wikidata": "Q16542448",
+       "lat": 13.883,
+       "lng": -13.711
+      },
+      {
+       "name": "Ourossogui",
+       "wikidata": "Q2472697",
+       "lat": 15.6015,
+       "lng": -13.3204
+      },
+      {
+       "name": "Sinthiou Bamambé-Banadji",
+       "wikidata": "Q3485061",
+       "lat": 15.3688,
+       "lng": -13.1366
+      },
+      {
+       "name": "Thilogne",
+       "wikidata": "Q3524626",
+       "lat": 15.9659,
+       "lng": -13.5916
+      },
+      {
+       "name": "Wouro Sidy",
+       "wikidata": "Q16542773",
+       "lat": 15.4183,
+       "lng": -13.1832
+      }
+     ]
+    },
+    {
+     "name": "Ranérou-Ferlo",
+     "wikidata": "Q2085443",
+     "lat": 15.2957,
+     "lng": -13.956,
+     "communes": [
+      {
+       "name": "Lougré Thioly",
+       "wikidata": "Q16542080",
+       "lat": 14.768,
+       "lng": -14.568
+      },
+      {
+       "name": "Oudalaye",
+       "wikidata": "Q16542475",
+       "lat": 13.334,
+       "lng": -13.986
+      },
+      {
+       "name": "Ranérou",
+       "wikidata": "Q3419053",
+       "lat": 15.2954,
+       "lng": -13.958
+      },
+      {
+       "name": "Vélingara",
+       "wikidata": "Q16628041",
+       "lat": 13.975,
+       "lng": -14.568
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Saint-Louis",
+   "wikidata": "Q178872",
+   "lat": 16.0257,
+   "lng": -16.5021,
+   "departements": [
+    {
+     "name": "Dagana",
+     "wikidata": "Q3044632",
+     "lat": 16.4767,
+     "lng": -15.6,
+     "communes": [
+      {
+       "name": "Bokhol",
+       "wikidata": "Q16541591",
+       "lat": 16.5189,
+       "lng": -15.4
+      },
+      {
+       "name": "Dagana",
+       "wikidata": "Q608073",
+       "lat": 16.5106,
+       "lng": -15.5035
+      },
+      {
+       "name": "Diama",
+       "wikidata": "Q16541707",
+       "lat": 16.2086,
+       "lng": -16.4036
+      },
+      {
+       "name": "Fanaye",
+       "wikidata": "Q16541845",
+       "lat": 16.5258,
+       "lng": -15.2226
+      },
+      {
+       "name": "Gaé",
+       "wikidata": "Q3099818",
+       "lat": 16.5667,
+       "lng": -15.45
+      },
+      {
+       "name": "Mbane",
+       "wikidata": "Q16542144",
+       "lat": 16.2667,
+       "lng": -15.8
+      },
+      {
+       "name": "Ndombo Sandjiry",
+       "wikidata": "Q16666238",
+       "lat": 16.4346,
+       "lng": -15.6972
+      },
+      {
+       "name": "Ngnith",
+       "wikidata": "Q16542361",
+       "lat": 16.1834,
+       "lng": -15.9091
+      },
+      {
+       "name": "Richard-Toll",
+       "wikidata": "Q1153061",
+       "lat": 16.4661,
+       "lng": -15.6933
+      },
+      {
+       "name": "Ronkh",
+       "wikidata": "Q16628022",
+       "lat": 16.4344,
+       "lng": -16.0105
+      },
+      {
+       "name": "Ross Béthio",
+       "wikidata": "Q3442746",
+       "lat": 16.2793,
+       "lng": -16.1398
+      },
+      {
+       "name": "Rosso",
+       "wikidata": "Q3442852",
+       "lat": 16.5,
+       "lng": -15.8167
+      }
+     ]
+    },
+    {
+     "name": "Podor",
+     "wikidata": "Q2066068",
+     "lat": 16.6586,
+     "lng": -14.959,
+     "communes": [
+      {
+       "name": "Aéré Lao",
+       "wikidata": "Q2876180",
+       "lat": 16.4019,
+       "lng": -14.3279
+      },
+      {
+       "name": "Bodé Lao",
+       "wikidata": "Q2908471",
+       "lat": 16.4445,
+       "lng": -14.3512
+      },
+      {
+       "name": "Boké Dialloubé",
+       "wikidata": "Q16541601",
+       "lat": 16.0684,
+       "lng": -13.9949
+      },
+      {
+       "name": "Démette",
+       "wikidata": "Q3043482",
+       "lat": 16.5658,
+       "lng": -14.2807
+      },
+      {
+       "name": "Dodel",
+       "wikidata": "Q16541821",
+       "lat": 16.4874,
+       "lng": -14.4217
+      },
+      {
+       "name": "Doumga Lao",
+       "wikidata": "Q16541831",
+       "lat": 16.1902,
+       "lng": -15.3469
+      },
+      {
+       "name": "Galoya Toucouleur",
+       "wikidata": "Q3094862",
+       "lat": 16.0778,
+       "lng": -13.8528
+      },
+      {
+       "name": "Gamadji Saré",
+       "wikidata": "Q3094909",
+       "lat": 16.5173,
+       "lng": -14.6951
+      },
+      {
+       "name": "Guédé Chantier",
+       "wikidata": "Q3122401",
+       "lat": 16.5313,
+       "lng": -14.7927
+      },
+      {
+       "name": "Guédé Village",
+       "wikidata": "Q16541927",
+       "lat": 16.5386,
+       "lng": -14.8073
+      },
+      {
+       "name": "Madina Diathbé",
+       "wikidata": "Q16542104",
+       "lat": 16.1697,
+       "lng": -14.2157
+      },
+      {
+       "name": "Mbolo Birane",
+       "wikidata": "Q16542161",
+       "lat": 14.7756,
+       "lng": -16.9498
+      },
+      {
+       "name": "Mboumba",
+       "wikidata": "Q3303552",
+       "lat": 16.1914,
+       "lng": -14.0216
+      },
+      {
+       "name": "Mboussobé",
+       "wikidata": "Q3110306",
+       "lat": 16.2558,
+       "lng": -14.1017
+      },
+      {
+       "name": "Méry",
+       "wikidata": "Q16542226",
+       "lat": 16.2179,
+       "lng": -14.0576
+      },
+      {
+       "name": "Ndiandane",
+       "wikidata": "Q3337472",
+       "lat": 16.5924,
+       "lng": -14.9915
+      },
+      {
+       "name": "Ndiayène Peindao",
+       "wikidata": "Q16542274",
+       "lat": 16.5004,
+       "lng": -15.0455
+      },
+      {
+       "name": "Ndioum",
+       "wikidata": "Q3337485",
+       "lat": 16.5131,
+       "lng": -14.6469
+      },
+      {
+       "name": "Oréfondé",
+       "wikidata": "Q16542458",
+       "lat": 16.045,
+       "lng": -13.7265
+      },
+      {
+       "name": "Pété",
+       "wikidata": "Q3412097",
+       "lat": 16.1059,
+       "lng": -13.9477
+      },
+      {
+       "name": "Podor",
+       "wikidata": "Q1019429",
+       "lat": 16.6489,
+       "lng": -14.9606
+      },
+      {
+       "name": "Walaldé",
+       "wikidata": "Q3565283",
+       "lat": 16.5073,
+       "lng": -14.2046
+      }
+     ]
+    },
+    {
+     "name": "Saint-Louis",
+     "wikidata": "Q2066134",
+     "lat": 16.0258,
+     "lng": -16.4919,
+     "communes": [
+      {
+       "name": "Fass Ngom",
+       "wikidata": "Q16541855",
+       "lat": 15.9286,
+       "lng": -16.3248
+      },
+      {
+       "name": "Gandon",
+       "wikidata": "Q16541897",
+       "lat": 15.9613,
+       "lng": -16.4466
+      },
+      {
+       "name": "Mpal",
+       "wikidata": "Q933396",
+       "lat": 15.9184,
+       "lng": -16.2696
+      },
+      {
+       "name": "Ndiébène Gandiole",
+       "wikidata": "Q16542303",
+       "lat": 15.928,
+       "lng": -16.4742
+      },
+      {
+       "name": "Saint-Louis",
+       "wikidata": "Q273779",
+       "lat": 16.0333,
+       "lng": -16.5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sédhiou",
+   "wikidata": "Q589848",
+   "lat": 12.7046,
+   "lng": -15.5563,
+   "departements": [
+    {
+     "name": "Bounkiling",
+     "wikidata": "Q2066229",
+     "lat": 13.0407,
+     "lng": -15.6936,
+     "communes": [
+      {
+       "name": "Boghal",
+       "wikidata": "Q16541586",
+       "lat": 13.238,
+       "lng": -15.5779
+      },
+      {
+       "name": "Bona",
+       "wikidata": "Q2408276",
+       "lat": 12.961,
+       "lng": -15.8417
+      },
+      {
+       "name": "Bounkiling",
+       "wikidata": "Q2922201",
+       "lat": 13.0395,
+       "lng": -15.6971
+      },
+      {
+       "name": "Diacounda",
+       "wikidata": "Q3025822",
+       "lat": 12.9686,
+       "lng": -15.9532
+      },
+      {
+       "name": "Diambaty",
+       "wikidata": "Q16541719",
+       "lat": 13.0349,
+       "lng": -15.4844
+      },
+      {
+       "name": "Diaroumé",
+       "wikidata": "Q16541740",
+       "lat": 12.9847,
+       "lng": -15.6166
+      },
+      {
+       "name": "Djinany",
+       "wikidata": "Q16541810",
+       "lat": 13.2356,
+       "lng": -15.7304
+      },
+      {
+       "name": "Faoune",
+       "wikidata": "Q16541850",
+       "lat": 13.0781,
+       "lng": -15.612
+      },
+      {
+       "name": "Inor",
+       "wikidata": "Q3151464",
+       "lat": 12.9944,
+       "lng": -15.7114
+      },
+      {
+       "name": "Kandion Mangana",
+       "wikidata": "Q3192600",
+       "lat": 13.1909,
+       "lng": -15.7837
+      },
+      {
+       "name": "Madina Wandifa",
+       "wikidata": "Q3276080",
+       "lat": 13.0581,
+       "lng": -15.6431
+      },
+      {
+       "name": "Ndiamacouta",
+       "wikidata": "Q16666236",
+       "lat": 13.3155,
+       "lng": -15.6336
+      },
+      {
+       "name": "Ndiamalathiel",
+       "wikidata": "Q16542270",
+       "lat": 13.2658,
+       "lng": -15.6418
+      },
+      {
+       "name": "Tankon",
+       "wikidata": "Q16542648",
+       "lat": 13.2456,
+       "lng": -15.4966
+      }
+     ]
+    },
+    {
+     "name": "Goudomp",
+     "wikidata": "Q2066279",
+     "lat": 12.5677,
+     "lng": -15.8802,
+     "communes": [
+      {
+       "name": "Baghère",
+       "wikidata": "Q16541540",
+       "lat": 12.6647,
+       "lng": -15.4324
+      },
+      {
+       "name": "Diattacounda",
+       "wikidata": "Q3026434",
+       "lat": 12.5697,
+       "lng": -15.6842
+      },
+      {
+       "name": "Diouboudou",
+       "wikidata": "Q16627973",
+       "lat": 12.7129,
+       "lng": -15.4822
+      },
+      {
+       "name": "Djibanar",
+       "wikidata": "Q16541800",
+       "lat": 12.5439,
+       "lng": -15.8081
+      },
+      {
+       "name": "Goudomp",
+       "wikidata": "Q3111582",
+       "lat": 12.5695,
+       "lng": -15.8783
+      },
+      {
+       "name": "Kaour",
+       "wikidata": "Q16627995",
+       "lat": 12.5693,
+       "lng": -15.9122
+      },
+      {
+       "name": "Karantaba",
+       "wikidata": "Q16541966",
+       "lat": 12.778,
+       "lng": -15.4686
+      },
+      {
+       "name": "Kolibantang",
+       "wikidata": "Q16542024",
+       "lat": 12.8018,
+       "lng": -15.2168
+      },
+      {
+       "name": "Mangaroungou Santo",
+       "wikidata": "Q16542126",
+       "lat": 12.5313,
+       "lng": -15.52
+      },
+      {
+       "name": "Niagha",
+       "wikidata": "Q16542401",
+       "lat": 12.7075,
+       "lng": -15.2626
+      },
+      {
+       "name": "Samine",
+       "wikidata": "Q3470813",
+       "lat": 12.5001,
+       "lng": -15.6341
+      },
+      {
+       "name": "Simbandi Balante",
+       "wikidata": "Q16542602",
+       "lat": 12.5593,
+       "lng": -15.7755
+      },
+      {
+       "name": "Simbandi Brassou",
+       "wikidata": "Q16542605",
+       "lat": 12.6251,
+       "lng": -15.5136
+      },
+      {
+       "name": "Tanaff",
+       "wikidata": "Q3514921",
+       "lat": 12.6564,
+       "lng": -15.4311
+      },
+      {
+       "name": "Yarang Balante",
+       "wikidata": "Q16542784",
+       "lat": 12.5156,
+       "lng": -15.5228
+      }
+     ]
+    },
+    {
+     "name": "Sédhiou",
+     "wikidata": "Q2066333",
+     "lat": 12.7118,
+     "lng": -15.5573,
+     "communes": [
+      {
+       "name": "Bambali",
+       "wikidata": "Q16541555",
+       "lat": 12.6043,
+       "lng": -15.6611
+      },
+      {
+       "name": "Bémet Bidjini",
+       "wikidata": "Q16541626",
+       "lat": 12.7274,
+       "lng": -15.9884
+      },
+      {
+       "name": "Diannah Ba",
+       "wikidata": "Q16541732",
+       "lat": 12.8355,
+       "lng": -15.2249
+      },
+      {
+       "name": "Diannah Malary",
+       "wikidata": "Q3026279",
+       "lat": 12.8462,
+       "lng": -15.2482
+      },
+      {
+       "name": "Diendé",
+       "wikidata": "Q16627967",
+       "lat": 12.7926,
+       "lng": -15.5561
+      },
+      {
+       "name": "Djibabouya",
+       "wikidata": "Q16541796",
+       "lat": 12.7986,
+       "lng": -15.9691
+      },
+      {
+       "name": "Djiredji",
+       "wikidata": "Q17177291",
+       "lat": 12.6207,
+       "lng": -15.7691
+      },
+      {
+       "name": "Koussy",
+       "wikidata": "Q16542046",
+       "lat": 12.8665,
+       "lng": -15.6042
+      },
+      {
+       "name": "Marsassoum",
+       "wikidata": "Q3294983",
+       "lat": 12.8326,
+       "lng": -15.9776
+      },
+      {
+       "name": "Oudoucar",
+       "wikidata": "Q16542478",
+       "lat": 12.8727,
+       "lng": -15.3267
+      },
+      {
+       "name": "Sakar",
+       "wikidata": "Q16542569",
+       "lat": 12.8448,
+       "lng": -15.4381
+      },
+      {
+       "name": "Sama Kanta Peulh",
+       "wikidata": "Q16542580",
+       "lat": 12.8994,
+       "lng": -15.2384
+      },
+      {
+       "name": "Sansamba",
+       "wikidata": "Q16542590",
+       "lat": 12.8063,
+       "lng": -15.8008
+      },
+      {
+       "name": "Sédhiou",
+       "wikidata": "Q671704",
+       "lat": 12.7081,
+       "lng": -15.5569
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tambacounda",
+   "wikidata": "Q848554",
+   "lat": 13.7726,
+   "lng": -13.6711,
+   "departements": [
+    {
+     "name": "Bakel",
+     "wikidata": "Q429338",
+     "lat": 14.9025,
+     "lng": -12.4594,
+     "communes": [
+      {
+       "name": "Bakel",
+       "wikidata": "Q804289",
+       "lat": 14.9042,
+       "lng": -12.4583
+      },
+      {
+       "name": "Ballou",
+       "wikidata": "Q16541548",
+       "lat": 14.738,
+       "lng": -12.2375
+      },
+      {
+       "name": "Bélé",
+       "wikidata": "Q15935879",
+       "lat": 14.3174,
+       "lng": -13.0336
+      },
+      {
+       "name": "Gabou",
+       "wikidata": "Q16541871",
+       "lat": 14.781,
+       "lng": -12.4935
+      },
+      {
+       "name": "Kidira",
+       "wikidata": "Q3196396",
+       "lat": 14.4574,
+       "lng": -12.2106
+      },
+      {
+       "name": "Toumboura",
+       "wikidata": "Q16542755",
+       "lat": 13.9673,
+       "lng": -12.2346
+      }
+     ]
+    },
+    {
+     "name": "Goudiry",
+     "wikidata": "Q2075487",
+     "lat": 14.1814,
+     "lng": -12.7181,
+     "communes": [
+      {
+       "name": "Bala",
+       "wikidata": "Q16541544",
+       "lat": 13.9457,
+       "lng": -13.2159
+      },
+      {
+       "name": "Bani Israël",
+       "wikidata": "Q16541569",
+       "lat": 13.0338,
+       "lng": -16.5701
+      },
+      {
+       "name": "Boynguel Bamba",
+       "wikidata": "Q16627962",
+       "lat": 14.0996,
+       "lng": -12.9288
+      },
+      {
+       "name": "Dianké Makha",
+       "wikidata": "Q16541724",
+       "lat": 13.6089,
+       "lng": -12.5453
+      },
+      {
+       "name": "Dougué",
+       "wikidata": "Q16541827",
+       "lat": 13.9903,
+       "lng": -12.672
+      },
+      {
+       "name": "Gathiary",
+       "wikidata": "Q16541905",
+       "lat": 14.2706,
+       "lng": -12.1171
+      },
+      {
+       "name": "Goudiry",
+       "wikidata": "Q3111576",
+       "lat": 14.1853,
+       "lng": -12.7167
+      },
+      {
+       "name": "Goumbayel",
+       "wikidata": "Q16541916",
+       "lat": 13.6352,
+       "lng": -13.2062
+      },
+      {
+       "name": "Koar",
+       "wikidata": "Q16542021",
+       "lat": 13.8055,
+       "lng": -13.3455
+      },
+      {
+       "name": "Komoti",
+       "wikidata": "Q16542027",
+       "lat": 13.5503,
+       "lng": -12.9098
+      },
+      {
+       "name": "Koulor",
+       "wikidata": "Q16542037",
+       "lat": 14.0451,
+       "lng": -13.3917
+      },
+      {
+       "name": "Koussan",
+       "wikidata": "Q16542039",
+       "lat": 14.0944,
+       "lng": -12.5471
+      },
+      {
+       "name": "Madina Foulbé",
+       "wikidata": "Q16542105",
+       "lat": 13.9267,
+       "lng": -12.0727
+      },
+      {
+       "name": "Ndendory",
+       "wikidata": "Q16542247",
+       "lat": 13.376,
+       "lng": -13.074
+      },
+      {
+       "name": "Sadatou",
+       "wikidata": "Q16542544",
+       "lat": 13.6328,
+       "lng": -12.08
+      },
+      {
+       "name": "Sinthiou Bocar Ali",
+       "wikidata": "Q16542617",
+       "lat": 14.3635,
+       "lng": -13.5049
+      },
+      {
+       "name": "Sinthiou Fissa",
+       "wikidata": "Q16542621",
+       "lat": 14.2504,
+       "lng": -12.3296
+      },
+      {
+       "name": "Sinthiou Mamadou Boubou",
+       "wikidata": "Q16542629",
+       "lat": 14.4325,
+       "lng": -12.7851
+      }
+     ]
+    },
+    {
+     "name": "Koumpentoum",
+     "wikidata": "Q2086832",
+     "lat": 13.9788,
+     "lng": -14.5623,
+     "communes": [
+      {
+       "name": "Bamba Thialène",
+       "wikidata": "Q16541552",
+       "lat": 13.8036,
+       "lng": -14.6167
+      },
+      {
+       "name": "Kahène",
+       "wikidata": "Q16541947",
+       "lat": 13.7113,
+       "lng": -14.7144
+      },
+      {
+       "name": "Kouthiaba Wolof",
+       "wikidata": "Q16542049",
+       "lat": 14.1856,
+       "lng": -14.3823
+      },
+      {
+       "name": "Ndame",
+       "wikidata": "Q16542231",
+       "lat": 14.0515,
+       "lng": -14.4995
+      },
+      {
+       "name": "Niani Toucouleur",
+       "wikidata": "Q16542415",
+       "lat": 13.6537,
+       "lng": -14.4986
+      },
+      {
+       "name": "Pass Koto",
+       "wikidata": "Q16542118",
+       "lat": 13.9153,
+       "lng": -14.2108
+      },
+      {
+       "name": "Payar",
+       "wikidata": "Q16542515",
+       "lat": 14.4611,
+       "lng": -14.3191
+      }
+     ]
+    },
+    {
+     "name": "Tambacounda",
+     "wikidata": "Q2086236",
+     "lat": 13.7689,
+     "lng": -13.6672,
+     "communes": [
+      {
+       "name": "Dialacoto",
+       "wikidata": "Q15934771",
+       "lat": 13.3155,
+       "lng": -13.2863
+      },
+      {
+       "name": "Koussanar",
+       "wikidata": "Q16542042",
+       "lat": 14.0986,
+       "lng": -13.851
+      },
+      {
+       "name": "Makacolibantang",
+       "wikidata": "Q16542112",
+       "lat": 13.6652,
+       "lng": -14.2869
+      },
+      {
+       "name": "Missirah",
+       "wikidata": "Q16542178",
+       "lat": 13.5256,
+       "lng": -13.5132
+      },
+      {
+       "name": "Ndoga Babacar",
+       "wikidata": "Q16542312",
+       "lat": 13.6947,
+       "lng": -13.9417
+      },
+      {
+       "name": "Néttéboulou",
+       "wikidata": "Q16542444",
+       "lat": 13.6602,
+       "lng": -13.653
+      },
+      {
+       "name": "Sinthiou Malème",
+       "wikidata": "Q16628026",
+       "lat": 13.9292,
+       "lng": -13.7238
+      },
+      {
+       "name": "Tambacounda",
+       "wikidata": "Q977305",
+       "lat": 13.7689,
+       "lng": -13.6672
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Thiès",
+   "wikidata": "Q847682",
+   "lat": 14.7911,
+   "lng": -16.9359,
+   "departements": [
+    {
+     "name": "Mbour",
+     "wikidata": "Q2086960",
+     "lat": 14.4057,
+     "lng": -16.8556,
+     "communes": [
+      {
+       "name": "Diass",
+       "wikidata": "Q16541748",
+       "lat": 14.6425,
+       "lng": -17.085
+      },
+      {
+       "name": "Fissel",
+       "wikidata": "Q16627985",
+       "lat": 14.5414,
+       "lng": -16.6143
+      },
+      {
+       "name": "Joal-Fadiouth",
+       "wikidata": "Q1340331",
+       "lat": 14.1531,
+       "lng": -16.8316
+      },
+      {
+       "name": "Malicounda",
+       "wikidata": "Q16542116",
+       "lat": 14.4724,
+       "lng": -16.9459
+      },
+      {
+       "name": "Mbour",
+       "wikidata": "Q1019431",
+       "lat": 14.4104,
+       "lng": -16.9649
+      },
+      {
+       "name": "Ndiaganiao",
+       "wikidata": "Q16542254",
+       "lat": 14.5386,
+       "lng": -16.7269
+      },
+      {
+       "name": "Ngaparou",
+       "wikidata": "Q3339278",
+       "lat": 14.4639,
+       "lng": -17.0584
+      },
+      {
+       "name": "Nguékhokh",
+       "wikidata": "Q3339368",
+       "lat": 14.5088,
+       "lng": -17.0027
+      },
+      {
+       "name": "Nguéniène",
+       "wikidata": "Q16542398",
+       "lat": 14.2694,
+       "lng": -16.7551
+      },
+      {
+       "name": "Popenguine-Ndayane",
+       "wikidata": "Q967925",
+       "lat": 14.563,
+       "lng": -17.1137
+      },
+      {
+       "name": "Saly Portudal",
+       "wikidata": "Q2654892",
+       "lat": 14.4425,
+       "lng": -17.0165
+      },
+      {
+       "name": "Sandiara",
+       "wikidata": "Q16542582",
+       "lat": 14.4357,
+       "lng": -16.7973
+      },
+      {
+       "name": "Séssène",
+       "wikidata": "Q16542640",
+       "lat": 14.4277,
+       "lng": -16.7434
+      },
+      {
+       "name": "Sindia",
+       "wikidata": "Q16542609",
+       "lat": 14.5859,
+       "lng": -17.037
+      },
+      {
+       "name": "Somone",
+       "wikidata": "Q130354333",
+       "lat": 14.4857,
+       "lng": -17.0757
+      },
+      {
+       "name": "Thiadiaye",
+       "wikidata": "Q3523969",
+       "lat": 14.4209,
+       "lng": -16.7061
+      }
+     ]
+    },
+    {
+     "name": "Thiès",
+     "wikidata": "Q2087146",
+     "lat": 14.73,
+     "lng": -16.8697,
+     "communes": [
+      {
+       "name": "Diender",
+       "wikidata": "Q16541752",
+       "lat": 14.8759,
+       "lng": -17.0821
+      },
+      {
+       "name": "Diokoul Mbelbouck",
+       "wikidata": "Q16541776",
+       "lat": 14.7304,
+       "lng": -16.6452
+      },
+      {
+       "name": "Fandène",
+       "wikidata": "Q16541847",
+       "lat": 14.8074,
+       "lng": -16.856
+      },
+      {
+       "name": "Kayar",
+       "wikidata": "Q3194399",
+       "lat": 14.9089,
+       "lng": -17.1241
+      },
+      {
+       "name": "Keur Moussa",
+       "wikidata": "Q16541992",
+       "lat": 14.7779,
+       "lng": -17.1111
+      },
+      {
+       "name": "Khombole",
+       "wikidata": "Q2277705",
+       "lat": 14.7629,
+       "lng": -16.6909
+      },
+      {
+       "name": "Ndiéyène Sirah",
+       "wikidata": "Q16542307",
+       "lat": 14.7074,
+       "lng": -16.6583
+      },
+      {
+       "name": "Ngoudiane",
+       "wikidata": "Q16542371",
+       "lat": 14.7229,
+       "lng": -16.7353
+      },
+      {
+       "name": "Notto",
+       "wikidata": "Q16542433",
+       "lat": 14.6974,
+       "lng": -16.8791
+      },
+      {
+       "name": "Pout",
+       "wikidata": "Q3400742",
+       "lat": 14.7726,
+       "lng": -17.0617
+      },
+      {
+       "name": "Tassette",
+       "wikidata": "Q16542651",
+       "lat": 14.6051,
+       "lng": -16.8649
+      },
+      {
+       "name": "Thiénaba",
+       "wikidata": "Q16542714",
+       "lat": 14.7639,
+       "lng": -16.7986
+      },
+      {
+       "name": "Thiès",
+       "wikidata": "Q600693",
+       "lat": 14.7916,
+       "lng": -16.9249
+      },
+      {
+       "name": "Touba Toul",
+       "wikidata": "Q16542747",
+       "lat": 14.8165,
+       "lng": -16.6655
+      }
+     ]
+    },
+    {
+     "name": "Tivaouane",
+     "wikidata": "Q2087361",
+     "lat": 15.0853,
+     "lng": -16.7106,
+     "communes": [
+      {
+       "name": "Chérif Lo",
+       "wikidata": "Q16541630",
+       "lat": 14.8951,
+       "lng": -16.8553
+      },
+      {
+       "name": "Darou Khoudoss",
+       "wikidata": "Q16541663",
+       "lat": 15.1042,
+       "lng": -16.8663
+      },
+      {
+       "name": "Koul",
+       "wikidata": "Q16542029",
+       "lat": 15.0694,
+       "lng": -16.629
+      },
+      {
+       "name": "Mbayène",
+       "wikidata": "Q16542152",
+       "lat": 15.1755,
+       "lng": -16.3028
+      },
+      {
+       "name": "Mboro",
+       "wikidata": "Q3303551",
+       "lat": 15.1327,
+       "lng": -16.8768
+      },
+      {
+       "name": "Meckhe",
+       "wikidata": "Q2981190",
+       "lat": 15.1135,
+       "lng": -16.6316
+      },
+      {
+       "name": "Méouane",
+       "wikidata": "Q16542217",
+       "lat": 15.076,
+       "lng": -16.7621
+      },
+      {
+       "name": "Mérina Dakhar",
+       "wikidata": "Q16542221",
+       "lat": 15.1048,
+       "lng": -16.5479
+      },
+      {
+       "name": "Mont Rolland",
+       "wikidata": "Q111208121",
+       "lat": 14.9161,
+       "lng": -16.9807
+      },
+      {
+       "name": "Ngandiouf",
+       "wikidata": "Q16542340",
+       "lat": 15.2662,
+       "lng": -16.4075
+      },
+      {
+       "name": "Niakhène",
+       "wikidata": "Q16542407",
+       "lat": 15.0764,
+       "lng": -16.3475
+      },
+      {
+       "name": "Notto Gouye Diama",
+       "wikidata": "Q16542436",
+       "lat": 14.9864,
+       "lng": -17.0121
+      },
+      {
+       "name": "Pambal",
+       "wikidata": "Q2384839",
+       "lat": 14.9687,
+       "lng": -16.8959
+      },
+      {
+       "name": "Pékèsse",
+       "wikidata": "Q16542526",
+       "lat": 15.1106,
+       "lng": -16.4181
+      },
+      {
+       "name": "Pire Goureye",
+       "wikidata": "Q16542519",
+       "lat": 15.0125,
+       "lng": -16.7322
+      },
+      {
+       "name": "Taïba Ndiaye",
+       "wikidata": "Q16542667",
+       "lat": 15.0396,
+       "lng": -16.8766
+      },
+      {
+       "name": "Thilmakha",
+       "wikidata": "Q16542703",
+       "lat": 15.0378,
+       "lng": -16.2537
+      },
+      {
+       "name": "Tivaouane",
+       "wikidata": "Q1153620",
+       "lat": 14.9543,
+       "lng": -16.8132
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Ziguinchor",
+   "wikidata": "Q822692",
+   "lat": 12.5641,
+   "lng": -16.2633,
+   "departements": [
+    {
+     "name": "Bignona",
+     "wikidata": "Q2087854",
+     "lat": 12.8117,
+     "lng": -16.2297,
+     "communes": [
+      {
+       "name": "Balingore",
+       "wikidata": "Q2989365",
+       "lat": 12.7782,
+       "lng": -16.3526
+      },
+      {
+       "name": "Bignona",
+       "wikidata": "Q286563",
+       "lat": 12.8097,
+       "lng": -16.23
+      },
+      {
+       "name": "Coubalan",
+       "wikidata": "Q2989367",
+       "lat": 12.6638,
+       "lng": -16.1744
+      },
+      {
+       "name": "Diégoune",
+       "wikidata": "Q3032689",
+       "lat": 12.8209,
+       "lng": -16.3724
+      },
+      {
+       "name": "Diouloulou",
+       "wikidata": "Q3028823",
+       "lat": 13.0484,
+       "lng": -16.5974
+      },
+      {
+       "name": "Djibidione",
+       "wikidata": "Q3032918",
+       "lat": 13.0604,
+       "lng": -16.2632
+      },
+      {
+       "name": "Djinaky",
+       "wikidata": "Q3032997",
+       "lat": 12.9467,
+       "lng": -16.4586
+      },
+      {
+       "name": "Kafountine",
+       "wikidata": "Q3191838",
+       "lat": 12.9273,
+       "lng": -16.7402
+      },
+      {
+       "name": "Kartiack",
+       "wikidata": "Q3193620",
+       "lat": 12.8608,
+       "lng": -16.4971
+      },
+      {
+       "name": "Kataba 1",
+       "wikidata": "Q3028824",
+       "lat": 13.0274,
+       "lng": -16.5744
+      },
+      {
+       "name": "Mangagoulack",
+       "wikidata": "Q3285687",
+       "lat": 12.6886,
+       "lng": -16.4407
+      },
+      {
+       "name": "Mlomp",
+       "wikidata": "Q3317458",
+       "lat": 12.8279,
+       "lng": -16.5242
+      },
+      {
+       "name": "Niamone",
+       "wikidata": "Q3339469",
+       "lat": 12.7408,
+       "lng": -16.3056
+      },
+      {
+       "name": "Oulampane",
+       "wikidata": "Q3358177",
+       "lat": 12.9627,
+       "lng": -15.9839
+      },
+      {
+       "name": "Ouonck",
+       "wikidata": "Q3358338",
+       "lat": 12.7076,
+       "lng": -16.0565
+      },
+      {
+       "name": "Sindian",
+       "wikidata": "Q3484891",
+       "lat": 12.9667,
+       "lng": -16.1825
+      },
+      {
+       "name": "Suelle",
+       "wikidata": "Q3502968",
+       "lat": 12.9531,
+       "lng": -16.2771
+      },
+      {
+       "name": "Tenghory",
+       "wikidata": "Q3518084",
+       "lat": 12.8089,
+       "lng": -16.2
+      },
+      {
+       "name": "Thionck Essyl",
+       "wikidata": "Q3524672",
+       "lat": 12.7822,
+       "lng": -16.5045
+      }
+     ]
+    },
+    {
+     "name": "Oussouye",
+     "wikidata": "Q2087689",
+     "lat": 12.4874,
+     "lng": -16.5447,
+     "communes": [
+      {
+       "name": "Diembéring",
+       "wikidata": "Q2989374",
+       "lat": 12.4618,
+       "lng": -16.7806
+      },
+      {
+       "name": "Mlomp Oussouye",
+       "wikidata": "Q3317457",
+       "lat": 12.5568,
+       "lng": -16.585
+      },
+      {
+       "name": "Oukout",
+       "wikidata": "Q3358149",
+       "lat": 12.4797,
+       "lng": -16.5537
+      },
+      {
+       "name": "Oussouye",
+       "wikidata": "Q768591",
+       "lat": 12.4886,
+       "lng": -16.5449
+      },
+      {
+       "name": "Santhiaba Manjacque",
+       "wikidata": "Q3472822",
+       "lat": 12.3731,
+       "lng": -16.5573
+      }
+     ]
+    },
+    {
+     "name": "Ziguinchor",
+     "wikidata": "Q2087556",
+     "lat": 12.5849,
+     "lng": -16.2751,
+     "communes": [
+      {
+       "name": "Adéane",
+       "wikidata": "Q2989363",
+       "lat": 12.6268,
+       "lng": -16.0153
+      },
+      {
+       "name": "Boutoupa-Camaracounda",
+       "wikidata": "Q2989364",
+       "lat": 12.5064,
+       "lng": -16.0807
+      },
+      {
+       "name": "Enampore",
+       "wikidata": "Q3053687",
+       "lat": 12.5154,
+       "lng": -16.453
+      },
+      {
+       "name": "Niaguis",
+       "wikidata": "Q2989372",
+       "lat": 12.5696,
+       "lng": -16.165
+      },
+      {
+       "name": "Nyassia",
+       "wikidata": "Q2989370",
+       "lat": 12.4756,
+       "lng": -16.3706
+      },
+      {
+       "name": "Ziguinchor",
+       "wikidata": "Q202776",
+       "lat": 12.5861,
+       "lng": -16.2707
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

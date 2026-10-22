@@ -1,0 +1,191 @@
+out: #15 1.364 
+out: #15 2.345 ▲ Next.js 16.4.2 (Turbopack)
+out: #15 2.346 - Environments: .env
+out: #15 2.454 ✓ Running next.config.ts took 107ms
+out: #15 2.478 - Experiments (use with caution):
+out: #15 2.478   · serverActions
+out: #15 2.478 
+out: #15 2.578   Creating an optimized production build ...
+out: #15 18.63 
+out: #15 18.63 > Build error occurred
+out: #15 18.65    8 | import { requireSpace } from "@/lib/auth/guards";
+out: #15 18.65 >  9 | import { capitalize, getWorkerByUserId } from "@/lib/data/workers";
+out: #15 18.65      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+out: #15 18.65   10 | import { env } from "@/lib/env";
+out: #15 18.65   11 | import { formatDate, joinFr } from "@/lib/format";
+out: #15 18.65   12 | import { qrSvg } from "@/lib/qr";
+out: #15 18.65 
+out: #15 18.65 Import map: aliased to relative './src/lib/data/workers' inside of [project]/
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65 https://nextjs.org/docs/messages/module-not-found
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65 ./src/app/(prestataire)/espace-prestataire/missions/[id]/page.tsx:17:1
+out: #15 18.65 Error: Module not found: Can't resolve '@/lib/data/workers'
+out: #15 18.65   15 | import { requireSpace } from "@/lib/auth/guards";
+out: #15 18.65   16 | import { getPlacementDetail } from "@/lib/data/placements";
+out: #15 18.65 > 17 | import { getReviewsAboutFamily } from "@/lib/data/workers";
+out: #15 18.65      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+out: #15 18.65   18 | import { formatDate } from "@/lib/format";
+out: #15 18.65   19 | import { placementStatusLabel } from "@/lib/placements";
+out: #15 18.65   20 |
+out: #15 18.65 
+out: #15 18.65 Import map: aliased to relative './src/lib/data/workers' inside of [project]/
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65 https://nextjs.org/docs/messages/module-not-found
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65 ./src/app/(prestataire)/espace-prestataire/missions/page.tsx:10:1
+out: #15 18.65 Error: Module not found: Can't resolve '@/lib/data/workers'
+out: #15 18.65    8 | import { requireSpace } from "@/lib/auth/guards";
+out: #15 18.65    9 | import { listWorkerPlacements } from "@/lib/data/placements";
+out: #15 18.65 > 10 | import { getReviewsAbout, getWorkerByUserId } from "@/lib/data/workers";
+out: #15 18.65      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+out: #15 18.65   11 | import { formatDate, formatDateTime } from "@/lib/format";
+out: #15 18.65   12 | import { isActive, placementStatusLabel } from "@/lib/placements";
+out: #15 18.65   13 | import { formulaOf, getServicesById } from "@/lib/services/repository";
+out: #15 18.65 
+out: #15 18.65 Import map: aliased to relative './src/lib/data/workers' inside of [project]/
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65 https://nextjs.org/docs/messages/module-not-found
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65 ./src/app/(prestataire)/espace-prestataire/page.tsx:14:1
+out: #15 18.65 Error: Module not found: Can't resolve '@/lib/data/workers'
+out: #15 18.65   12 | ...{ requireSpace } from "@/lib/auth/guards";
+out: #15 18.65   13 | ...{ cn } from "@/lib/cn";
+out: #15 18.65 > 14 | ...{ capitalize, getWorkerByUserId, skillLabels, type WorkerDossier } from "@/lib/data/wor...
+out: #15 18.65      |    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+out: #15 18.65   15 | ...{ formatDate } from "@/lib/format";
+out: #15 18.65   16 | ...{ publicProfilePath } from "@/lib/public-profile";
+out: #15 18.65   17 | ...{ providerNoun } from "@/lib/services/repository";
+out: #15 18.65 
+out: #15 18.65 Import map: aliased to relative './src/lib/data/workers' inside of [project]/
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65 https://nextjs.org/docs/messages/module-not-found
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65 ./src/app/(site)/services/[slug]/page.tsx:13:1
+out: #15 18.65 Error: Module not found: Can't resolve '@/lib/data/workers'
+out: #15 18.65   11 | import { fill, getDictionary } from "@/i18n";
+out: #15 18.65   12 | import { getVitrine } from "@/lib/data/vitrine";
+out: #15 18.65 > 13 | import { capitalize } from "@/lib/data/workers";
+out: #15 18.65      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+out: #15 18.65   14 | import { formatFcfa } from "@/lib/format";
+out: #15 18.65   15 | import { peoplePath } from "@/lib/public-profile";
+out: #15 18.65   16 | import { guaranteeText } from "@/lib/services/config";
+out: #15 18.65 
+out: #15 18.65 Import map: aliased to relative './src/lib/data/workers' inside of [project]/
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65 https://nextjs.org/docs/messages/module-not-found
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65 ./src/app/(site)/v/[cardId]/page.tsx:7:1
+out: #15 18.65 Error: Module not found: Can't resolve '@/lib/data/workers'
+out: #15 18.65    5 | import { WhatsAppButton } from "@/components/site/whatsapp-button";
+out: #15 18.65    6 | import { CARD_ID_PATTERN } from "@/lib/card";
+out: #15 18.65 >  7 | import { capitalize, getWorkerByCardId } from "@/lib/data/workers";
+out: #15 18.65      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+out: #15 18.65    8 | import { formatDate, joinFr } from "@/lib/format";
+out: #15 18.65    9 | import { providerNoun } from "@/lib/services/repository";
+out: #15 18.65   10 |
+out: #15 18.65 
+out: #15 18.65 Import map: aliased to relative './src/lib/data/workers' inside of [project]/
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65 https://nextjs.org/docs/messages/module-not-found
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65 ./src/components/profile/profile-card.tsx:7:1
+out: #15 18.65 Error: Module not found: Can't resolve '@/lib/data/workers'
+out: #15 18.65    5 | import { Rating } from "@/components/ui/rating";
+out: #15 18.65    6 | import { experienceLabel } from "@/components/worker-card";
+out: #15 18.65 >  7 | import { capitalize } from "@/lib/data/workers";
+out: #15 18.65      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+out: #15 18.65    8 | import type { VitrineEntry } from "@/lib/data/vitrine";
+out: #15 18.65    9 | import { formatDate, formatDistance } from "@/lib/format";
+out: #15 18.65   10 | import { publicProfilePath } from "@/lib/public-profile";
+out: #15 18.65 
+out: #15 18.65 Import map: aliased to relative './src/lib/data/workers' inside of [project]/
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65 Import trace:
+out: #15 18.65   Server Component:
+out: #15 18.65     ./src/components/profile/profile-card.tsx
+out: #15 18.65     ./src/components/profile/profile-row.tsx
+out: #15 18.65     ./src/app/(site)/page.tsx
+out: #15 18.65 
+out: #15 18.65 https://nextjs.org/docs/messages/module-not-found
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65 ./src/components/profile/worker-profile-view.tsx:8:1
+out: #15 18.65 Error: Module not found: Can't resolve '@/lib/data/workers'
+out: #15 18.65    6 | import { VerifiedBadge } from "@/components/verified-badge";
+out: #15 18.65    7 | import { experienceLabel } from "@/components/worker-card";
+out: #15 18.65 >  8 | import { capitalize, skillLabels, type ProfileReview } from "@/lib/data/workers";
+out: #15 18.65      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+out: #15 18.65    9 | import { formatDate, formatDistance, formatFcfa } from "@/lib/format";
+out: #15 18.65   10 | import type { PublicProfile } from "@/lib/public-profile";
+out: #15 18.65   11 | import { providerNoun, type LoadedService } from "@/lib/services/repository";
+out: #15 18.65 
+out: #15 18.65 Import map: aliased to relative './src/lib/data/workers' inside of [project]/
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65 Import trace:
+out: #15 18.65   Server Component:
+out: #15 18.65     ./src/components/profile/worker-profile-view.tsx
+out: #15 18.65     ./src/app/(site)/personnes/[id]/page.tsx
+out: #15 18.65 
+out: #15 18.65 https://nextjs.org/docs/messages/module-not-found
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65 ./src/components/worker-card.tsx:7:1
+out: #15 18.65 Error: Module not found: Can't resolve '@/lib/data/workers'
+out: #15 18.65    5 | import { Rating } from "@/components/ui/rating";
+out: #15 18.65    6 | import { VerifiedBadge } from "@/components/verified-badge";
+out: #15 18.65 >  7 | import { capitalize, skillLabels } from "@/lib/data/workers";
+out: #15 18.65      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+out: #15 18.65    8 | import { ageFromBirthYear, formatDistance, formatFcfa } from "@/lib/format";
+out: #15 18.65    9 | import type { Match } from "@/lib/matching";
+out: #15 18.65   10 | import { placementStatusLabel, type PlacementStatus } from "@/lib/placements";
+out: #15 18.65 
+out: #15 18.65 Import map: aliased to relative './src/lib/data/workers' inside of [project]/
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65 Import trace:
+out: #15 18.65   Server Component:
+out: #15 18.65     ./src/components/worker-card.tsx
+out: #15 18.65     ./src/components/profile/profile-card.tsx
+out: #15 18.65     ./src/app/(site)/personnes/page.tsx
+out: #15 18.65 
+out: #15 18.65 https://nextjs.org/docs/messages/module-not-found
+out: #15 18.65 
+out: #15 18.65 
+out: #15 18.65     at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+out: #15 18.65     ... collapsed 36 duplicate lines matching above 1 lines 36 times...
+out: #15 18.72 npm notice
+out: #15 18.72 npm notice New major version of npm available! 11.19.1 -> 12.2.1
+out: #15 18.72 npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.2.1
+out: #15 18.72 npm notice To update run: npm install -g npm@12.2.1
+out: #15 18.72 npm notice
+out: #15 ERROR: process "/bin/sh -c npm run build && npm run build:scripts" did not complete successfully: exit code: 1
+out: ------
+out:  > [app builder 5/5] RUN npm run build && npm run build:scripts:
+out: 18.65 https://nextjs.org/docs/messages/module-not-found
+out: 18.65 
+out: 18.65 
+out: 18.65     at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+out: 18.65     ... collapsed 36 duplicate lines matching above 1 lines 36 times...
+out: 18.72 npm notice
+out: 18.72 npm notice New major version of npm available! 11.19.1 -> 12.2.1
+out: 18.72 npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.2.1
+out: 18.72 npm notice To update run: npm install -g npm@12.2.1
+out: 18.72 npm notice
+out: ------
+err: failed to solve: process "/bin/sh -c npm run build && npm run build:scripts" did not complete successfully: exit code: 1
+2026/10/22 02:29:26 Process exited with status 1

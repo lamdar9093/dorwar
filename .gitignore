@@ -11,7 +11,7 @@ coverage/
 next-env.d.ts
 
 # données locales (fichiers téléversés, bases SQLite)
-data/
+/data/
 *.db
 *.sqlite
 *.sqlite3
