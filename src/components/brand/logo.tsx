@@ -4,20 +4,23 @@ type LogoProps = {
   withWordmark?: boolean;
 };
 
-/** Marque Dorwar : une porte entrouverte, la lumière qui passe. Le nom ne porte aucune signification inventée. */
+/**
+ * Marque Dorwar : le D entrouvert. La barre du D est le cadre, la panse est le battant,
+ * et la lumière passe entre les deux. Le nom ne porte aucune signification inventée.
+ */
 export function LogoMark({ tone = "dark", size = 30 }: { tone?: "dark" | "light"; size?: number }) {
   const ink = tone === "dark" ? "#273150" : "#faf6ee";
   return (
     <svg
       width={size}
-      height={(size * 34) / 30}
-      viewBox="0 0 30 34"
+      height={(size * 46) / 42}
+      viewBox="12 9 42 46"
       aria-hidden="true"
       focusable="false"
     >
-      <path d="M3 32V14a12 12 0 0 1 24 0v18z" fill="#b4532e" />
-      <path d="M18.4 4.6 21.4 5.9 24 32h-5.6z" fill={tone === "dark" ? "#fbebd0" : "#e8a33d"} />
-      <path d="M1 32.4h28" stroke={ink} strokeWidth="2.4" strokeLinecap="round" />
+      <rect x="12" y="9" width="10" height="46" fill={ink} />
+      <path d="M22 9H24.5L30 55H22z" fill="#e8a33d" />
+      <path d="M24.5 9H31a23 23 0 0 1 0 46H30z" fill="#b4532e" />
     </svg>
   );
 }
